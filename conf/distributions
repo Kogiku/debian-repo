@@ -1,0 +1,7 @@
+Origin: Kogiku
+Label: Kogiku GitHub
+Codename: sid
+Architectures: amd64 i386 source
+Components: main
+Description: Various packages hosted on Kogiku's GitHub repository.
+SignWith: E86E767F6ABD37CA21F32D18E5D4226E1E245586

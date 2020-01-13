@@ -1,0 +1,5 @@
+Component: main
+Origin: Kogiku
+Label: Kogiku GitHub
+Architecture: i386
+Description: Various packages hosted on Kogiku's GitHub repository.
