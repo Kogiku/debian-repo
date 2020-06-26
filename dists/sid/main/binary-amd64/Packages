@@ -1,0 +1,401 @@
+Package: apindex
+Version: 2.2-2
+Architecture: amd64
+Maintainer: Kogiku <10516420+Kogiku@users.noreply.github.com>
+Installed-Size: 60
+Depends: python3
+Homepage: https://github.com/libthinkpad/apindex
+Priority: optional
+Section: admin
+Filename: pool/main/a/apindex/apindex_2.2-2_amd64.deb
+Size: 35240
+SHA256: ebf6ef1501f2aa133a29a2d0d36a8e699179e27548ce6eeb0170f3d29b228bdc
+SHA1: 853745175be9b92c2bc3657a19e1fc8c18057826
+MD5sum: 6c4dbbda538958e76bda04ec2b9b67eb
+Description: Static HTML file index generator
+ This program enables you to generate a file index for static web
+ servers such as Github Pages or mini HTTP servers.
+
+Package: awf
+Version: 1.4.0-2
+Architecture: amd64
+Maintainer: Kogiku <10516420+Kogiku@users.noreply.github.com>
+Installed-Size: 145
+Depends: libc6 (>= 2.4), libglib2.0-0 (>= 2.37.3), libgtk-3-0 (>= 3.5.8), libgtk2.0-0 (>= 2.24.0)
+Conflicts: awf-gtk2, awf-gtk3
+Homepage: https://github.com/valr/awf
+Priority: optional
+Section: x11
+Filename: pool/main/a/awf/awf_1.4.0-2_amd64.deb
+Size: 32756
+SHA256: f55c74e3a7121c33a5e87943ca5a24830394a2e22d1c2c064e1edaa56d81ef4d
+SHA1: 735157ab15daa14f1c2804e14d20bbfaa651ac06
+MD5sum: 16680d40f673f9070fce77710c304a50
+Description: theme preview application for gtk2 and gtk3.
+ It displays the various widget types provided by gtk2/gtk3 in a single
+ window allowing to see the visual effect of the applied theme.
+
+Package: bsnes-plus
+Version: 05-2
+Architecture: amd64
+Maintainer: Kogiku <10516420+Kogiku@users.noreply.github.com>
+Installed-Size: 3300
+Depends: libao4 (>= 1.1.0), libasound2 (>= 1.0.16), libc6 (>= 2.29), libgcc1 (>= 1:3.0), libgl1, libgomp1 (>= 4.9), libopenal1 (>= 1.14), libpulse0 (>= 0.99.1), libqt5core5a (>= 5.12.2), libqt5gui5 (>= 5.2.0) | libqt5gui5-gles (>= 5.2.0), libqt5widgets5 (>= 5.11.0~rc1), libsdl1.2debian (>= 1.2.11), libstdc++6 (>= 5.2), libx11-6, libxext6, libxv1
+Conflicts: libsnesfilter, libsnesmusic, libsnesreader, libsupergameboy
+Homepage: http://bsnes.revenant1.net
+Priority: optional
+Section: games
+Filename: pool/main/b/bsnes-plus/bsnes-plus_05-2_amd64.deb
+Size: 1107128
+SHA256: e4b8767dfa62e62f91ac24ee3542a3a87ad5fdd72ceadcf00dcec85c7ee49148
+SHA1: c22c361a29786d9db1c5988cf0375f83ecaa0200
+MD5sum: 31294301c347a807cd2d32aa9b24772d
+Description: debug-oriented SNES/Super Famicom emulator
+ bsnes-plus (or bsnes+) is a fork of bsnes (based on bsnes-classic) intended to
+ introduce some new features and improvements, mostly aimed at debugging.
+
+Package: cmdpack
+Version: 1.06-2
+Architecture: amd64
+Maintainer: Kogiku <10516420+Kogiku@users.noreply.github.com>
+Installed-Size: 298
+Depends: libc6 (>= 2.14)
+Conflicts: bin2ecm, bincomp, brrrip, byteshuf, cdpatch, ecm2bin, fakecrc, hax65816, pecompat, rels, screamf, uips, vb2rip, wordadd
+Homepage: https://github.com/chungy/cmdpack
+Priority: optional
+Section: utils
+Filename: pool/main/c/cmdpack/cmdpack_1.06-2_amd64.deb
+Size: 67036
+SHA256: 5011ed1f5afa28772a1e95881860b341a78486d2efbc1bdf5ae76a339178de39
+SHA1: 3c350f55e1f4df3d23fe9f4afaa5930a79349b73
+MD5sum: ec9fb97f5ed85417bbd06d789de52fac
+Description: command line utilities, most for emulation or disk images
+ These are a set of utilities originally released by Neill Corlett,
+ but the upstream has since vanished from the web.
+ .
+ This package contains:
+  * bin2ecm/ecm2bin: Encoder/decoder for Error Code Modeler format
+  * bincomp: Compare binary files
+  * brrrip: Rip SNES BRR sound samples
+  * byteshuf: Shuffle or unshuffle bytes in a file
+  * cdpatch: CD-XA image insert/extract utility
+  * fakecrc: Fake the CRC32 of a file
+  * hax65816: Simple 65816 disassembler
+  * pecompat: Maximize compatibility of a Win32 PE file
+  * rels: Relative Searcher
+  * screamf: .AMF to .S3M converter
+  * uips: Universal IPS patch create/apply utility
+  * vb2rip: VB2 sound format ripping utility
+  * wordadd: Addition word puzzle solver
+
+Package: exhale
+Version: 1.0.4-2
+Architecture: amd64
+Maintainer: Kogiku <10516420+Kogiku@users.noreply.github.com>
+Installed-Size: 221
+Depends: libc6 (>= 2.29), libgcc-s1 (>= 3.0), libstdc++6 (>= 4.9)
+Homepage: https://github.com/Ryochan7/sc-controller/tree/python3
+Priority: optional
+Section: sound
+Filename: pool/main/e/exhale/exhale_1.0.4-2_amd64.deb
+Size: 99480
+SHA256: 48f6f0218e1ee18075224b6a7e990216f9799fa9df1eda159d77abde2beba326
+SHA1: 9964d67c81d532aa48d76dbb057440ae48853faa
+MD5sum: a183d3e598e78fd500a2ec3cffea093b
+Description: open-source ISO/IEC 23003-3 (USAC, xHE-AAC) encoder
+ exhale (or Ecodis eXtended High-efficiency And Low-complexity Encoder) is a
+ lightweight library and application to encode uncompressed WAVE-format audio
+ files into MPEG-4-format files complying with the ISO/IEC 23003-3 (MPEG-D)
+ Unified Speech and Audio Coding (USAC, also known as Extended High-Efficiency
+ AAC) standard.
+ .
+ In addition, exhale writes program peak-level and loudness data into the
+ generated MPEG-4 files according to the ISO/IEC 23003-4, Dynamic Range Control
+ (DRC) specification for use by decoders providing DRC.
+ .
+ exhale currently makes use of all frequency-domain (FD) coding tools in the
+ scalefactor based MDCT processing path, except for predictive joint stereo,
+ which is still being integrated. Its objective is high quality mono, stereo,
+ and multichannel coding at medium and high bit rates, so the lower-rate USAC
+ coding tools (ACELP, TCX, Enhanced SBR and MPEG Surround with Unified Stereo
+ coding) won't be integrated.
+
+Package: gnome-icon-theme-s
+Version: 3.12.0.5-1
+Architecture: all
+Maintainer: Kogiku <10516420+Kogiku@users.noreply.github.com>
+Installed-Size: 18447
+Depends: hicolor-icon-theme, gtk-update-icon-cache, librsvg2-common
+Enhances: nautilus (>= 2.2)
+Multi-Arch: foreign
+Homepage: https://github.com/Kogiku/gnome-icon-theme-slate
+Priority: optional
+Section: gnome
+Filename: pool/main/g/gnome-icon-theme-s/gnome-icon-theme-s_3.12.0.5-1_all.deb
+Size: 12133836
+SHA256: a564ccc2d6668e442aebf2fd3f09fc797635345bde29ac6ff81319dcd4db3804
+SHA1: 8c6c278639f2b474075f2a0fa0c23d9eb941eb37
+MD5sum: de42986242327df95acfb12e6df2debb
+Description: slate blue recolor of the GNOME Desktop icon theme
+ This package contains recolors of the default icon theme used by
+ the GNOME desktop. The icons are used in the panel menu, and in nautilus and
+ other applications, to represent the different applications, files,
+ directories, and devices.
+ .
+ Color variants include:
+ * Sakura (pink)
+ * Seafoam (teal)
+ * Slate (blueish)
+ * Stardust (purple)
+ * Steel (grey).
+
+Package: mupen64plus-video-gliden64
+Version: 4.0-2
+Architecture: amd64
+Maintainer: Kogiku <10516420+Kogiku@users.noreply.github.com>
+Installed-Size: 1513
+Depends: libc6 (>= 2.29), libfreetype6 (>= 2.2.1), libgl1, libglu1-mesa | libglu1, libpng16-16 (>= 1.6.2-1), libstdc++6 (>= 6), zlib1g (>= 1:1.1.4), mupen64plus-config-abi-2.2, mupen64plus-gfx-abi-2.2, mupen64plus-vidext-abi-3
+Breaks: libmupen64plus2 (<< 2.0)
+Provides: mupen64plus-video
+Multi-Arch: same
+Homepage: http://gliden64.blogspot.com.br/
+Priority: optional
+Section: games
+Filename: pool/main/m/mupen64plus-video-gliden64/mupen64plus-video-gliden64_4.0-2_amd64.deb
+Size: 458848
+SHA256: d02baa60751b3fab56225bf9d08dc512286377d665d1144186d357990235e0bc
+SHA1: 2c1368303a6142e583afb4852607db1581d52212
+MD5sum: 6de377b8dc5cabbcdc985440f9fbbf33
+Description: GLideN64 OpenGL graphics HLE plugin for Mupen64Plus
+ GLideN64 is based on sources of Orkin's OpenGL graphics plugin glN64 and aims
+ to have the same features of Glide64 using the power of modern OpenGL with
+ more accurate HLE emulation.
+ .
+ It needs graphic card with support of OpenGL 4.2 or better.
+
+Package: nauz-file-detector
+Version: 0.04-1
+Architecture: amd64
+Maintainer: Kogiku <10516420+Kogiku@users.noreply.github.com>
+Installed-Size: 3048
+Depends: libc6 (>= 2.29), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.12.2), libqt5gui5 (>= 5.0.2) | libqt5gui5-gles (>= 5.0.2), libqt5widgets5 (>= 5.0.2), libstdc++6 (>= 5), libicu67, libqt5dbus5, libqt5gui5
+Homepage: http://ntinfo.biz/
+Priority: optional
+Section: utils
+Filename: pool/main/n/nauz-file-detector/nauz-file-detector_0.04-1_amd64.deb
+Size: 597068
+SHA256: 9157776f6322f4b31fcd25a71af92ee4002efbcd0cab33cb244a580145d4545e
+SHA1: a13884d5bd2674655c46212d8ec31864bd964572
+MD5sum: b449b311d08c378bde1941faac540555
+Description: linker/compiler/packer identifier utility
+ Nauz File Detector (or nfd) is a linker/compiler/packer identifier utility.
+ .
+ * nfd - GUI version
+ * nfdc - console version
+
+Package: patchmatrix
+Version: 2:0.18.0-2
+Architecture: amd64
+Maintainer: Kogiku <10516420+Kogiku@users.noreply.github.com>
+Installed-Size: 658
+Depends: libc6 (>= 2.17), libgl1, libglew2.1 (>= 1.12.0), libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125, libx11-6, fonts-croscore
+Homepage: https://git.open-music-kontrollers.ch/
+Priority: optional
+Section: sound
+Filename: pool/main/p/patchmatrix/patchmatrix_0.18.0-2_amd64.deb
+Size: 252584
+SHA256: eb64ebc53cbbb81633ee8484786c2d2ee3cea93775368772c00f9fab6662de02
+SHA1: 4103fd5b1a232bc9c1bc6cf6cd19ac3f2d34173c
+MD5sum: 77331608f19cdfd079f690c15039235e
+Description: JACK patchbay in flow-matrix-style
+ PatchMatrix shows JACK clients and their input and output ports in
+ flow-matrix-style.
+ .
+ The flow-matrix-style combines advantages of both flow-style (excellent
+ overview of signal flow) and matrix-style (less virtual cabling mess,
+ one-click patching).
+ .
+ The patchbay shows AUDIO, MIDI, CV and OSC ports separately to reduce
+ complexity.
+ .
+ Ships with JACK session management support.
+
+Package: python3-rgain
+Source: rgain3
+Version: 1.0.0-2
+Architecture: all
+Maintainer: Kogiku <10516420+Kogiku@users.noreply.github.com>
+Installed-Size: 97
+Depends: gir1.2-gstreamer-1.0, gstreamer1.0-plugins-base, gstreamer1.0-plugins-good, python3-gi, python3-mutagen, python3:any
+Recommends: gstreamer1.0-plugins-ugly | gstreamer1.0-libav
+Conflicts: python-rgain, python3-collectiongain, python3-replaygain, python3-rgain3
+Homepage: https://github.com/chaudum/rgain
+Priority: optional
+Section: python
+Filename: pool/main/r/rgain3/python3-rgain_1.0.0-2_all.deb
+Size: 27264
+SHA256: 5c3d7306b8469a7148ef87fa1f152fd6ade593c713ed5685a334f498faa33e41
+SHA1: 53cb41728aac1f04fe610ff3bcf2638aa89c58c6
+MD5sum: f59c4c24d75fed533497ea224e4d74b0
+Description: Replay Gain volume normalization Python tools
+ This package provides a Python package to calculate the Replay Gain values of
+ audio files and normalize the volume of those files according to the values.
+ Two basic scripts exploiting these capabilities are shipped as well.
+ .
+ Replay Gain is a proposed standard designed to solve the very problem of
+ varying volumes across audio files. Its specifications are available at
+ http://replaygain.org/ .
+
+Package: sc-controller
+Version: 0.4.7+git20200611-1
+Architecture: amd64
+Maintainer: Kogiku <10516420+Kogiku@users.noreply.github.com>
+Installed-Size: 5992
+Depends: python3 (<< 3.9), python3 (>= 3.8~), python3:any, libc6 (>= 2.17), zlib1g (>= 1:1.1.4), python3-gi, libgtk-3-0, gir1.2-gtk-3.0, gir1.2-glib-2.0, python3-gi-cairo, gir1.2-rsvg-2.0, linux-libc-dev, xinput, python3-pylibacl
+Recommends: python3-evdev
+Homepage: https://github.com/Ryochan7/sc-controller/tree/python3
+Priority: optional
+Section: games
+Filename: pool/main/s/sc-controller/sc-controller_0.4.7+git20200611-1_amd64.deb
+Size: 1620860
+SHA256: 241616c8561a2e5fd0b521a02e786fb9b17e2b01500fe409c58c0428957f5f6b
+SHA1: f93cae882f748ddd5a78628cd8075de9a853bfb3
+MD5sum: 8d222f709125d53669b90c68c78a0857
+Description: User-mode driver and GTK3 based GUI for Steam Controller
+ Application allowing to setup, configure and use Steam Controller
+ without using Steam client.
+Python-Version: 3.8
+
+Package: solarc-theme
+Version: 2.0.0+git20200526-1
+Architecture: all
+Maintainer: Kogiku <10516420+Kogiku@users.noreply.github.com>
+Installed-Size: 9833
+Depends: gnome-themes-extra, gtk2-engines-murrine
+Homepage: https://github.com/schemar/solarc-theme
+Priority: optional
+Section: misc
+Filename: pool/main/s/solarc-theme/solarc-theme_2.0.0+git20200526-1_all.deb
+Size: 272388
+SHA256: a6eae9a76a12417b8b4b2911c3f54119a685d78c080cd7b081872043c3e419a5
+SHA1: c83ac648174e6519d5182d8179199ab6b0f88f6a
+MD5sum: 2a5bf7454fbefa54882b401ddf7b832c
+Description: flat theme with transparent elements. Based on the Arc theme
+ SolArc is a flat theme with transparent elements for GTK 3, GTK 2 and GNOME
+ Shell which supports GTK 3 and GTK 2 based desktop environments like GNOME,
+ Unity, Pantheon, Xfce, MATE, Cinnamon (>=3.4), Budgie Desktop (10.4 for
+ GTK+3.22) etc.
+ .
+ SolArc is a fork of the Arc theme: https://github.com/arc-design/arc-theme
+ .
+ Colours are based on the Solarized colour scheme by Ethan Schoonover:
+ https://github.com/altercation/solarized
+
+Package: spek-alternative
+Version: 0.8.2.3-2
+Architecture: amd64
+Maintainer: Kogiku <10516420+Kogiku@users.noreply.github.com>
+Installed-Size: 523
+Depends: libavcodec58 (>= 7:4.2), libavformat58 (>= 7:4.1), libavutil56 (>= 7:4.0), libc6 (>= 2.14), libgcc-s1 (>= 3.0), libstdc++6 (>= 5.2), libwxbase3.0-0v5 (>= 3.0.4+dfsg), libwxgtk3.0-gtk3-0v5 (>= 3.0.4+dfsg-10~)
+Conflicts: spek
+Homepage: https://github.com/withmorten/spek-alternative
+Priority: optional
+Section: sound
+Filename: pool/main/s/spek-alternative/spek-alternative_0.8.2.3-2_amd64.deb
+Size: 111320
+SHA256: a1210407becf8841f94c26ceff4c90dd065ffbb16e3f219d972ca8068b918a95
+SHA1: a10f3e909dc300a381edcfb7c9c976a35ce7de03
+MD5sum: f8928fa92ff5a5bef32b95e4d3054dae
+Description: acoustic spectrum analyser
+ Spek helps to analyse your audio files by showing their spectrogram.
+ It supports all popular lossy and lossless audio file formats.
+ .
+ Features:
+ .
+  * Ultra-fast signal processing, uses multiple threads to further
+    speed up the analysis
+  * Shows the codec name and the audio signal parameters
+  * Can save the spectrogram as an image file
+  * Drag-and-drop support; associates with common audio file formats
+  * Auto-fitting time, frequency and spectral density rulers
+  * Adjustable spectral density range
+
+Package: ucon64
+Version: 2.2.0-2
+Architecture: amd64
+Maintainer: Kogiku <10516420+Kogiku@users.noreply.github.com>
+Installed-Size: 1808
+Depends: libc6 (>= 2.17), zlib1g (>= 1:1.1.4)
+Suggests: libieee1284-3, libusb-0.1-4
+Homepage: http://ucon64.sourceforge.net/index.php
+Priority: optional
+Section: utils
+Filename: pool/main/u/ucon64/ucon64_2.2.0-2_amd64.deb
+Size: 1069412
+SHA256: de01fe756ba8cccfcb6b403ff1d3812191471745df91b4f9d662dc96ebf31eb1
+SHA1: e63758828c6316a4cd7fcbbd21b8dc67346eabaa
+MD5sum: 30d30743cbda5bf50e78f411505bc59f
+Description: backup tool and wonderful emulator's Swiss Army knife
+ uCON64 is completely Open Source Software and has been ported to many
+ platforms using code from various people
+ .
+ Support for almost every video game system (Consoles, Handheld, and Arcade)
+ with very verbose ROM information is continuously added and updated
+ .
+ Support for many different backup units to backup/restore ROM(s) and SRAM(s)
+ is also continuously added and updated (if their manufacturers cooperate)
+ .
+ Supports all common patch file formats like IPS (with RLE compression), APS,
+ BSL (Baseline Patch format), PPF (Playstation Patch File), and Game Genie
+ .
+ Support for use and creation of RomCenter Data files (DAT) for secure
+ detection of bad dumps
+ .
+ Has many options for every kind of ROM or SRAM handling, modification, and
+ management
+ Supports gzip and zip
+ .
+ Have a look at uCON64misc[1] for support files like parport drivers or at
+ uCON64dat[2] for DAT files generated with/for uCON64
+ .
+ [1] http://ucon64.sourceforge.net/index.php#ucon64misc
+ [2] http://ucon64.sourceforge.net/index.php#ucon64dat
+
+Package: waifu2x-converter-cpp
+Version: 5.3.3-1
+Architecture: amd64
+Maintainer: Kogiku <10516420+Kogiku@users.noreply.github.com>
+Installed-Size: 28018
+Depends: libc6 (>= 2.29), libgcc1 (>= 1:3.0), libopencv-core4.1, libopencv-imgcodecs4.1, libopencv-imgproc4.1, libstdc++6 (>= 9)
+Conflicts: libw2xc
+Homepage: https://github.com/DeadSix27/waifu2x-converter-cpp
+Priority: optional
+Section: graphics
+Filename: pool/main/w/waifu2x-converter-cpp/waifu2x-converter-cpp_5.3.3-1_amd64.deb
+Size: 10791568
+SHA256: cbe9cdd20d6bdd989c0beb00725cfc50c603e4a73fa86b2503be67ee191127a8
+SHA1: 7bde758dacb1a63a1a270f120a4731df58eda4a6
+MD5sum: 80af8c0a49706439eaec16569059df9f
+Description: image super-resolution for anime-style art
+ waifu2x-converter-cpp is a reimplementation of waifu2x converter function, in
+ C++, using OpenCV. This is also a reimplementation of waifu2x python version
+ by Hector Martin. You can use this as command-line tool of image noise
+ reduction or/and scaling.
+
+Package: xelfviewer
+Version: 0.01-1
+Architecture: amd64
+Maintainer: Kogiku <10516420+Kogiku@users.noreply.github.com>
+Installed-Size: 2420
+Depends: libc6 (>= 2.29), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.12.2), libqt5gui5 (>= 5.3.0) | libqt5gui5-gles (>= 5.3.0), libqt5opengl5 (>= 5.0.2), libqt5svg5 (>= 5.6.0~beta), libqt5widgets5 (>= 5.2.0~alpha1), libstdc++6 (>= 4.9), libicu67, libqt5dbus5, libqt5gui5
+Homepage: http://ntinfo.biz/
+Priority: optional
+Section: utils
+Filename: pool/main/x/xelfviewer/xelfviewer_0.01-1_amd64.deb
+Size: 784836
+SHA256: 49b546a579be6ab541596bf3fd487ddcd5869736038b1ed9dd622906c10c3094
+SHA1: 13ca50414a05f423663ee4879080a10f7818799e
+MD5sum: 09983f215b1391188a8e62d52d19c037
+Description: ELF file viewer/editor
+ XELFViewer is an ELF file viewer/editor.
+

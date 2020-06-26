@@ -1,0 +1,100 @@
+Package: gnome-icon-theme-s
+Version: 3.12.0.5-1
+Architecture: all
+Maintainer: Kogiku <10516420+Kogiku@users.noreply.github.com>
+Installed-Size: 18447
+Depends: hicolor-icon-theme, gtk-update-icon-cache, librsvg2-common
+Enhances: nautilus (>= 2.2)
+Multi-Arch: foreign
+Homepage: https://github.com/Kogiku/gnome-icon-theme-slate
+Priority: optional
+Section: gnome
+Filename: pool/main/g/gnome-icon-theme-s/gnome-icon-theme-s_3.12.0.5-1_all.deb
+Size: 12133836
+SHA256: a564ccc2d6668e442aebf2fd3f09fc797635345bde29ac6ff81319dcd4db3804
+SHA1: 8c6c278639f2b474075f2a0fa0c23d9eb941eb37
+MD5sum: de42986242327df95acfb12e6df2debb
+Description: slate blue recolor of the GNOME Desktop icon theme
+ This package contains recolors of the default icon theme used by
+ the GNOME desktop. The icons are used in the panel menu, and in nautilus and
+ other applications, to represent the different applications, files,
+ directories, and devices.
+ .
+ Color variants include:
+ * Sakura (pink)
+ * Seafoam (teal)
+ * Slate (blueish)
+ * Stardust (purple)
+ * Steel (grey).
+
+Package: gogo
+Source: gogo-no-coda
+Version: 3.13-1
+Architecture: i386
+Maintainer: Kogiku <10516420+Kogiku@users.noreply.github.com>
+Installed-Size: 277
+Depends: libc6 (>= 2.29)
+Conflicts: gogo-no-coda
+Homepage: https://github.com/teragonaudio/gogo-no-coda
+Priority: optional
+Section: sound
+Filename: pool/main/g/gogo-no-coda/gogo_3.13-1_i386.deb
+Size: 101884
+SHA256: a89128507e3d1e8a383d40b9c2ead85d6ca0f35d66b26d88275a68ca1197fbc3
+SHA1: f16ede3cb3e4fb33e92c5e8216abfb51ed3a80d5
+MD5sum: d932cbea5e19dabc3b9c5c8d4189f82d
+Description: fast MP3 encoder based on LAME
+ GOGO-no-coda (or gogo) is a MP3 encoder based on LAME3.88, which is optimized
+ for Enhanced 3D Now!/SSE/SSE2 and dual-CPUs.
+
+Package: python3-rgain
+Source: rgain3
+Version: 1.0.0-2
+Architecture: all
+Maintainer: Kogiku <10516420+Kogiku@users.noreply.github.com>
+Installed-Size: 97
+Depends: gir1.2-gstreamer-1.0, gstreamer1.0-plugins-base, gstreamer1.0-plugins-good, python3-gi, python3-mutagen, python3:any
+Recommends: gstreamer1.0-plugins-ugly | gstreamer1.0-libav
+Conflicts: python-rgain, python3-collectiongain, python3-replaygain, python3-rgain3
+Homepage: https://github.com/chaudum/rgain
+Priority: optional
+Section: python
+Filename: pool/main/r/rgain3/python3-rgain_1.0.0-2_all.deb
+Size: 27264
+SHA256: 5c3d7306b8469a7148ef87fa1f152fd6ade593c713ed5685a334f498faa33e41
+SHA1: 53cb41728aac1f04fe610ff3bcf2638aa89c58c6
+MD5sum: f59c4c24d75fed533497ea224e4d74b0
+Description: Replay Gain volume normalization Python tools
+ This package provides a Python package to calculate the Replay Gain values of
+ audio files and normalize the volume of those files according to the values.
+ Two basic scripts exploiting these capabilities are shipped as well.
+ .
+ Replay Gain is a proposed standard designed to solve the very problem of
+ varying volumes across audio files. Its specifications are available at
+ http://replaygain.org/ .
+
+Package: solarc-theme
+Version: 2.0.0+git20200526-1
+Architecture: all
+Maintainer: Kogiku <10516420+Kogiku@users.noreply.github.com>
+Installed-Size: 9833
+Depends: gnome-themes-extra, gtk2-engines-murrine
+Homepage: https://github.com/schemar/solarc-theme
+Priority: optional
+Section: misc
+Filename: pool/main/s/solarc-theme/solarc-theme_2.0.0+git20200526-1_all.deb
+Size: 272388
+SHA256: a6eae9a76a12417b8b4b2911c3f54119a685d78c080cd7b081872043c3e419a5
+SHA1: c83ac648174e6519d5182d8179199ab6b0f88f6a
+MD5sum: 2a5bf7454fbefa54882b401ddf7b832c
+Description: flat theme with transparent elements. Based on the Arc theme
+ SolArc is a flat theme with transparent elements for GTK 3, GTK 2 and GNOME
+ Shell which supports GTK 3 and GTK 2 based desktop environments like GNOME,
+ Unity, Pantheon, Xfce, MATE, Cinnamon (>=3.4), Budgie Desktop (10.4 for
+ GTK+3.22) etc.
+ .
+ SolArc is a fork of the Arc theme: https://github.com/arc-design/arc-theme
+ .
+ Colours are based on the Solarized colour scheme by Ethan Schoonover:
+ https://github.com/altercation/solarized
+
