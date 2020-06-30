@@ -121,25 +121,25 @@ Description: open-source ISO/IEC 23003-3 (USAC, xHE-AAC) encoder
  coding) won't be integrated.
 
 Package: gnome-icon-theme-s
-Version: 3.12.0.5-1
+Version: 3.12.0.6-1
 Architecture: all
 Maintainer: Kogiku <10516420+Kogiku@users.noreply.github.com>
-Installed-Size: 18447
+Installed-Size: 18695
 Depends: hicolor-icon-theme, gtk-update-icon-cache, librsvg2-common
 Enhances: nautilus (>= 2.2)
 Multi-Arch: foreign
 Homepage: https://github.com/Kogiku/gnome-icon-theme-slate
 Priority: optional
 Section: gnome
-Filename: pool/main/g/gnome-icon-theme-s/gnome-icon-theme-s_3.12.0.5-1_all.deb
-Size: 12133836
-SHA256: a564ccc2d6668e442aebf2fd3f09fc797635345bde29ac6ff81319dcd4db3804
-SHA1: 8c6c278639f2b474075f2a0fa0c23d9eb941eb37
-MD5sum: de42986242327df95acfb12e6df2debb
-Description: slate blue recolor of the GNOME Desktop icon theme
- This package contains recolors of the default icon theme used by
- the GNOME desktop. The icons are used in the panel menu, and in nautilus and
- other applications, to represent the different applications, files,
+Filename: pool/main/g/gnome-icon-theme-s/gnome-icon-theme-s_3.12.0.6-1_all.deb
+Size: 12348076
+SHA256: e44fdac373475536da40606a4910e2a0e53eac162633d69ca4b71d2862972d3f
+SHA1: 5cff8062f74a96ebfe41251c25d2272257fcd6cf
+MD5sum: 01cf7b6741e093e2ae61f368dca3fa9c
+Description: soft recolors of the GNOME 3.12 icon theme
+ This package contains soft recolors of the default icon theme used by
+ the GNOME 3.12 desktop. The icons are used in the panel menu, and in nautilus
+ and other applications, to represent the different applications, files,
  directories, and devices.
  .
  Color variants include:
