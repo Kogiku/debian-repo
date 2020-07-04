@@ -1,31 +1,32 @@
 Package: gnome-icon-theme-s
-Version: 3.12.0.6-1
+Version: 3.12.0.7-1
 Architecture: all
 Maintainer: Kogiku <10516420+Kogiku@users.noreply.github.com>
-Installed-Size: 18695
+Installed-Size: 20042
 Depends: hicolor-icon-theme, gtk-update-icon-cache, librsvg2-common
+Recommends: adwaita-icon-theme | gnome-icon-theme-symbolic
 Enhances: nautilus (>= 2.2)
 Multi-Arch: foreign
-Homepage: https://github.com/Kogiku/gnome-icon-theme-slate
+Homepage: https://github.com/Kogiku/gnome-icon-theme-s
 Priority: optional
 Section: gnome
-Filename: pool/main/g/gnome-icon-theme-s/gnome-icon-theme-s_3.12.0.6-1_all.deb
-Size: 12348076
-SHA256: e44fdac373475536da40606a4910e2a0e53eac162633d69ca4b71d2862972d3f
-SHA1: 5cff8062f74a96ebfe41251c25d2272257fcd6cf
-MD5sum: 01cf7b6741e093e2ae61f368dca3fa9c
-Description: soft recolors of the GNOME 3.12 icon theme
- This package contains soft recolors of the default icon theme used by
- the GNOME 3.12 desktop. The icons are used in the panel menu, and in nautilus
- and other applications, to represent the different applications, files,
- directories, and devices.
+Filename: pool/main/g/gnome-icon-theme-s/gnome-icon-theme-s_3.12.0.7-1_all.deb
+Size: 13421304
+SHA256: 00c235b05b330fb258a7d04e4594f72797ad83ef3fdba4ca8986bbf5634862e2
+SHA1: 803c60cff6aeeade95902a5d3bc1c8e69f093f1b
+MD5sum: 5be9d0436d1a524edb8e2840fecf713e
+Description: updated GNOME 3.12 icon theme with soft color variants
+ Updated version of the icon theme that was used by the GNOME 3.12 desktop.
+ The icons are used in the panel menu, and in nautilus and other applications,
+ to represent the different applications, files, directories, and devices.
  .
  Color variants include:
- * Sakura (pink)
- * Seafoam (teal)
- * Slate (blueish)
- * Stardust (purple)
- * Steel (grey).
+  * Legacy (3.12 original)
+  * Sakura (pink)
+  * Seafoam (teal)
+  * Slate (blueish)
+  * Stardust (purple)
+  * Steel (grey)
 
 Package: gogo
 Source: gogo-no-coda
