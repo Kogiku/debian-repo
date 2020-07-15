@@ -48,32 +48,6 @@ Description: fast MP3 encoder based on LAME
  GOGO-no-coda (or gogo) is a MP3 encoder based on LAME3.88, which is optimized
  for Enhanced 3D Now!/SSE/SSE2 and dual-CPUs.
 
-Package: python3-rgain
-Source: rgain3
-Version: 1.0.0-2
-Architecture: all
-Maintainer: Kogiku <10516420+Kogiku@users.noreply.github.com>
-Installed-Size: 97
-Depends: gir1.2-gstreamer-1.0, gstreamer1.0-plugins-base, gstreamer1.0-plugins-good, python3-gi, python3-mutagen, python3:any
-Recommends: gstreamer1.0-plugins-ugly | gstreamer1.0-libav
-Conflicts: python-rgain, python3-collectiongain, python3-replaygain, python3-rgain3
-Homepage: https://github.com/chaudum/rgain
-Priority: optional
-Section: python
-Filename: pool/main/r/rgain3/python3-rgain_1.0.0-2_all.deb
-Size: 27264
-SHA256: 5c3d7306b8469a7148ef87fa1f152fd6ade593c713ed5685a334f498faa33e41
-SHA1: 53cb41728aac1f04fe610ff3bcf2638aa89c58c6
-MD5sum: f59c4c24d75fed533497ea224e4d74b0
-Description: Replay Gain volume normalization Python tools
- This package provides a Python package to calculate the Replay Gain values of
- audio files and normalize the volume of those files according to the values.
- Two basic scripts exploiting these capabilities are shipped as well.
- .
- Replay Gain is a proposed standard designed to solve the very problem of
- varying volumes across audio files. Its specifications are available at
- http://replaygain.org/ .
-
 Package: solarc-theme
 Version: 2.0.0+git20200526-1
 Architecture: all
