@@ -15,7 +15,6 @@ apt-get update
 ```
 Included packages:
  * **apindex** (from https://github.com/libthinkpad/apindex)
- * **awf** (from https://github.com/valr/awf)
  * **bsnes-plus** (from https://github.com/devinacker/bsnes-plus)
  * **cmdpack** (from https://github.com/chungy/cmdpack)
  * **exhale** (from https://gitlab.com/ecodis/exhale)

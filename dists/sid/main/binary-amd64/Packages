@@ -16,25 +16,6 @@ Description: Static HTML file index generator
  This program enables you to generate a file index for static web
  servers such as Github Pages or mini HTTP servers.
 
-Package: awf
-Version: 1.4.0-2
-Architecture: amd64
-Maintainer: Kogiku <10516420+Kogiku@users.noreply.github.com>
-Installed-Size: 145
-Depends: libc6 (>= 2.4), libglib2.0-0 (>= 2.37.3), libgtk-3-0 (>= 3.5.8), libgtk2.0-0 (>= 2.24.0)
-Conflicts: awf-gtk2, awf-gtk3
-Homepage: https://github.com/valr/awf
-Priority: optional
-Section: x11
-Filename: pool/main/a/awf/awf_1.4.0-2_amd64.deb
-Size: 32756
-SHA256: f55c74e3a7121c33a5e87943ca5a24830394a2e22d1c2c064e1edaa56d81ef4d
-SHA1: 735157ab15daa14f1c2804e14d20bbfaa651ac06
-MD5sum: 16680d40f673f9070fce77710c304a50
-Description: theme preview application for gtk2 and gtk3.
- It displays the various widget types provided by gtk2/gtk3 in a single
- window allowing to see the visual effect of the applied theme.
-
 Package: bsnes-plus
 Version: 05-2
 Architecture: amd64
