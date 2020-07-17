@@ -176,19 +176,19 @@ Description: linker/compiler/packer identifier utility
  * nfdc - console version
 
 Package: patchmatrix
-Version: 2:0.18.0-2
+Version: 2:0.20.0-1
 Architecture: amd64
 Maintainer: Kogiku <10516420+Kogiku@users.noreply.github.com>
 Installed-Size: 658
-Depends: libc6 (>= 2.17), libgl1, libglew2.1 (>= 1.12.0), libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125, libx11-6, fonts-croscore
+Depends: libc6 (>= 2.29), libgl1, libglew2.1 (>= 1.12.0), libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125, libx11-6, fonts-croscore
 Homepage: https://git.open-music-kontrollers.ch/
 Priority: optional
 Section: sound
-Filename: pool/main/p/patchmatrix/patchmatrix_0.18.0-2_amd64.deb
-Size: 252584
-SHA256: eb64ebc53cbbb81633ee8484786c2d2ee3cea93775368772c00f9fab6662de02
-SHA1: 4103fd5b1a232bc9c1bc6cf6cd19ac3f2d34173c
-MD5sum: 77331608f19cdfd079f690c15039235e
+Filename: pool/main/p/patchmatrix/patchmatrix_0.20.0-1_amd64.deb
+Size: 252356
+SHA256: 50fc3de568087bb504adbeaed5b8558e66e6617bb4935228b12eaf31ed398da1
+SHA1: 51131c557094a3a0a7ff76b671421ba4f08bdc7a
+MD5sum: c7b37328acb603fce3217b12be511c36
 Description: JACK patchbay in flow-matrix-style
  PatchMatrix shows JACK clients and their input and output ports in
  flow-matrix-style.
