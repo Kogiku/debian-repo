@@ -203,7 +203,7 @@ Description: JACK patchbay in flow-matrix-style
  Ships with JACK session management support.
 
 Package: sc-controller
-Version: 0.4.7+git20200707-1
+Version: 0.4.7+git20200707-2
 Architecture: amd64
 Maintainer: Kogiku <10516420+Kogiku@users.noreply.github.com>
 Installed-Size: 5991
@@ -213,11 +213,11 @@ Suggests: steam-devices
 Homepage: https://github.com/Ryochan7/sc-controller/tree/python3
 Priority: optional
 Section: games
-Filename: pool/main/s/sc-controller/sc-controller_0.4.7+git20200707-1_amd64.deb
-Size: 1621064
-SHA256: dcfc9cc892c6e3c736a509173ab720c7a55a197d44bc8a18c4f4b2a6f18e92bf
-SHA1: 503ed30d68bc705b90adbddf0e4a6bae8f859948
-MD5sum: 41e2765762222170474ce109d912d5b9
+Filename: pool/main/s/sc-controller/sc-controller_0.4.7+git20200707-2_amd64.deb
+Size: 1621096
+SHA256: fc4b5ad7448eff734fcc59811e439791e03c7374aaf55969d995b8bb89a731f9
+SHA1: e1875ff6365f71204b19f4360ffa087f330f9cd6
+MD5sum: 386421d1463ad92cb3dcec39aaab48a9
 Description: User-mode driver and GTK3 based GUI for Steam Controller
  Application allowing to setup, configure and use Steam Controller
  without using Steam client.
