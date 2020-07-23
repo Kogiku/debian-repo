@@ -23,7 +23,7 @@ Included packages:
  * **mupen64plus-video-gliden64** (from https://github.com/gonetz/GLideN64)
  * **nauz-file-detector** (from https://github.com/horsicq/Nauz-File-Detector)
  * **patchmatrix** (from https://github.com/OpenMusicKontrollers/patchmatrix)
- * **sc-controller** (from https://github.com/Ryochan7/sc-controller/tree/python3)
+ * **sc-controller** (from https://github.com/Ryochan7/sc-controller)
  * **solarc-theme** (from https://github.com/schemar/solarc-theme)
  * **spek-alternative** (from https://github.com/withmorten/spek-alternative)
  * **ucon64** (from https://ucon64.sourceforge.io)
