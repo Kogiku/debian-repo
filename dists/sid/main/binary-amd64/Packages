@@ -319,20 +319,20 @@ Description: backup tool and wonderful emulator's Swiss Army knife
  [2] http://ucon64.sourceforge.net/index.php#ucon64dat
 
 Package: waifu2x-converter-cpp
-Version: 5.3.3-1
+Version: 5.3.3-2
 Architecture: amd64
 Maintainer: Kogiku <10516420+Kogiku@users.noreply.github.com>
-Installed-Size: 28018
-Depends: libc6 (>= 2.29), libgcc1 (>= 1:3.0), libopencv-core4.1, libopencv-imgcodecs4.1, libopencv-imgproc4.1, libstdc++6 (>= 9)
+Installed-Size: 27986
+Depends: libc6 (>= 2.29), libgcc-s1 (>= 3.0), libopencv-core4.2 (>= 4.2.0+dfsg), libopencv-imgcodecs4.2 (>= 4.2.0+dfsg), libopencv-imgproc4.2 (>= 4.2.0+dfsg), libstdc++6 (>= 9)
 Conflicts: libw2xc
 Homepage: https://github.com/DeadSix27/waifu2x-converter-cpp
 Priority: optional
 Section: graphics
-Filename: pool/main/w/waifu2x-converter-cpp/waifu2x-converter-cpp_5.3.3-1_amd64.deb
-Size: 10791568
-SHA256: cbe9cdd20d6bdd989c0beb00725cfc50c603e4a73fa86b2503be67ee191127a8
-SHA1: 7bde758dacb1a63a1a270f120a4731df58eda4a6
-MD5sum: 80af8c0a49706439eaec16569059df9f
+Filename: pool/main/w/waifu2x-converter-cpp/waifu2x-converter-cpp_5.3.3-2_amd64.deb
+Size: 10783128
+SHA256: 62c02d9003f0baedad7dab97bbd3a7008a149f874a2aff4520528447e4ebe834
+SHA1: 433236cadf6fcc3839af21aece8c9286bcfa89ef
+MD5sum: 4fd49b817b0d2624bea86a1260cedeca
 Description: image super-resolution for anime-style art
  waifu2x-converter-cpp is a reimplementation of waifu2x converter function, in
  C++, using OpenCV. This is also a reimplementation of waifu2x python version
