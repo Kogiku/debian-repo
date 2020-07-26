@@ -101,6 +101,38 @@ Description: open-source ISO/IEC 23003-3 (USAC, xHE-AAC) encoder
  coding tools (ACELP, TCX, Enhanced SBR and MPEG Surround with Unified Stereo
  coding) won't be integrated.
 
+Package: flips
+Version: 1.40~pre20200713-1
+Architecture: amd64
+Maintainer: Kogiku <10516420+Kogiku@users.noreply.github.com>
+Installed-Size: 133
+Depends: libc6 (>= 2.14), libglib2.0-0 (>= 2.28.0), libgomp1 (>= 4.9), libgtk-3-0 (>= 3.0.0), libstdc++6 (>= 4.1.1)
+Homepage: https://github.com/Alcaro/Flips
+Priority: optional
+Section: utils
+Filename: pool/main/f/flips/flips_1.40~pre20200713-1_amd64.deb
+Size: 49232
+SHA256: 9e9c6173f6c30b3224f65854b6dfeb58e4308cd242736e449801eb717a9180da
+SHA1: 556a46730a34330422d32bf0e3c91a45e821cde5
+MD5sum: 4413b5850239627e309c0c787e8b6536
+Description: patcher for IPS and BPS files
+ Floating IPS (or Flips) is a patcher for IPS and BPS files, aiming for a
+ simple interface yet plenty of power under the hood.
+ .
+ Features:
+ * Creates the smallest BPS patches of any known tool in existence, and is
+  faster than any other comparable creator
+ * Creates the smallest IPS patches of any known tool in existence, too
+  (but only a little smaller, Lunar IPS is quite good)
+ * Fully-featured GUIs under Windows and GTK+, including command line support;
+  can also be a pure command line program
+ * Can apply multiple patches to the same ROM, creating a huge pile of ROMs
+  (GUI only)
+ * Can remembers which ROMs you've used, and use them again if it thinks it's
+  correct (BPS only, GUI only)
+ * Can launch other programs after patching the ROMs; together with the above,
+  this allows you to double click a BPS to launch an emulator (GUI only)
+
 Package: gnome-icon-theme-s
 Version: 3.12.0.7-1
 Architecture: all
