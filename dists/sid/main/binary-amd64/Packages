@@ -70,19 +70,19 @@ Description: command line utilities, most for emulation or disk images
   * wordadd: Addition word puzzle solver
 
 Package: exhale
-Version: 1.0.5-1
+Version: 1.0.6-1
 Architecture: amd64
 Maintainer: Kogiku <10516420+Kogiku@users.noreply.github.com>
-Installed-Size: 230
+Installed-Size: 250
 Depends: libc6 (>= 2.29), libgcc-s1 (>= 3.0), libstdc++6 (>= 4.9)
 Homepage: https://gitlab.com/ecodis/exhale
 Priority: optional
 Section: sound
-Filename: pool/main/e/exhale/exhale_1.0.5-1_amd64.deb
-Size: 103604
-SHA256: b569d4d6e401c14fb6d990f18c3718c44d1de6fe7661a28a8bcef760a0ae0c57
-SHA1: 6795df1ab1e85b157be039958c38e65509c84afa
-MD5sum: 2dfaeed6b1118b79f6a62ab53c2e93a1
+Filename: pool/main/e/exhale/exhale_1.0.6-1_amd64.deb
+Size: 109696
+SHA256: 81c641b18f15d69460828e1a9670b5ab143c91779c70c18c7601a278dbb399db
+SHA1: eb56cc7c6b108a3dc5aea641281ed50939fcd72b
+MD5sum: 3c5efbbc198be269c466f7ac16f04097
 Description: open-source ISO/IEC 23003-3 (USAC, xHE-AAC) encoder
  exhale (or Ecodis eXtended High-efficiency And Low-complexity Encoder) is a
  lightweight library and application to encode uncompressed WAVE-format audio
