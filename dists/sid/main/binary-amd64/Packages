@@ -134,10 +134,10 @@ Description: patcher for IPS and BPS files
   this allows you to double click a BPS to launch an emulator (GUI only)
 
 Package: gnome-icon-theme-s
-Version: 3.12.0.7-1
+Version: 3.12.0.8-1
 Architecture: all
 Maintainer: Kogiku <10516420+Kogiku@users.noreply.github.com>
-Installed-Size: 20042
+Installed-Size: 20115
 Depends: hicolor-icon-theme, gtk-update-icon-cache, librsvg2-common
 Recommends: adwaita-icon-theme | gnome-icon-theme-symbolic
 Enhances: nautilus (>= 2.2)
@@ -145,11 +145,11 @@ Multi-Arch: foreign
 Homepage: https://github.com/Kogiku/gnome-icon-theme-s
 Priority: optional
 Section: gnome
-Filename: pool/main/g/gnome-icon-theme-s/gnome-icon-theme-s_3.12.0.7-1_all.deb
-Size: 13421304
-SHA256: 00c235b05b330fb258a7d04e4594f72797ad83ef3fdba4ca8986bbf5634862e2
-SHA1: 803c60cff6aeeade95902a5d3bc1c8e69f093f1b
-MD5sum: 5be9d0436d1a524edb8e2840fecf713e
+Filename: pool/main/g/gnome-icon-theme-s/gnome-icon-theme-s_3.12.0.8-1_all.deb
+Size: 13421932
+SHA256: 46f23a86b1ef6850f362d12eae7eeed4f517b5c0e3e9e57b443a79a671b00ec1
+SHA1: 37e332980bbfb5d22554cd5fd4329946eca2f360
+MD5sum: 7c2030c8d0571856a69bfc9a00f4a515
 Description: updated GNOME 3.12 icon theme with soft color variants
  Updated version of the icon theme that was used by the GNOME 3.12 desktop.
  The icons are used in the panel menu, and in nautilus and other applications,
