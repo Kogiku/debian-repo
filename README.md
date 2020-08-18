@@ -11,7 +11,7 @@ wget -nv https://kogiku.github.io/debian-repo/public.key -O public.key
 3. Then run the following as root:
 ```
 apt-key add - < public.key
-apt-get update
+apt update
 ```
 Included packages:
  * **apindex** (from https://github.com/libthinkpad/apindex)
