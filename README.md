@@ -18,7 +18,6 @@ Included packages:
  * **bsnes-plus** (from https://github.com/devinacker/bsnes-plus)
  * **cmdpack** (from https://github.com/chungy/cmdpack)
  * **exhale** (from https://gitlab.com/ecodis/exhale)
- * **flips** (from https://github.com/Alcaro/Flips)
  * **gnome-icon-theme-s** (from https://github.com/Kogiku/gnome-icon-theme-s)
  * **gogo:i386** (from https://github.com/teragonaudio/gogo-no-coda)
  * **mupen64plus-video-gliden64** (from https://github.com/gonetz/GLideN64)
