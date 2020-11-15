@@ -49,19 +49,19 @@ Description: fast MP3 encoder based on LAME
  for Enhanced 3D Now!/SSE/SSE2 and dual-CPUs.
 
 Package: solarc-theme
-Version: 2.0.0+git20200526-1
+Version: 2.0.0+git20201115-1
 Architecture: all
 Maintainer: Kogiku <10516420+Kogiku@users.noreply.github.com>
-Installed-Size: 9833
+Installed-Size: 9708
 Depends: gnome-themes-extra, gtk2-engines-murrine
 Homepage: https://github.com/schemar/solarc-theme
 Priority: optional
 Section: misc
-Filename: pool/main/s/solarc-theme/solarc-theme_2.0.0+git20200526-1_all.deb
-Size: 272388
-SHA256: a6eae9a76a12417b8b4b2911c3f54119a685d78c080cd7b081872043c3e419a5
-SHA1: c83ac648174e6519d5182d8179199ab6b0f88f6a
-MD5sum: 2a5bf7454fbefa54882b401ddf7b832c
+Filename: pool/main/s/solarc-theme/solarc-theme_2.0.0+git20201115-1_all.deb
+Size: 269948
+SHA256: a5ba396b0b78132aeeb82016db252a8e010ba1198dffcddae5b6d0ef625dab1a
+SHA1: 18c6e35a4c804cbee88eff28c4c1b7c6e48444e7
+MD5sum: 4036084eab92955c55a31ead571e6c09
 Description: flat theme with transparent elements. Based on the Arc theme
  SolArc is a flat theme with transparent elements for GTK 3, GTK 2 and GNOME
  Shell which supports GTK 3 and GTK 2 based desktop environments like GNOME,
