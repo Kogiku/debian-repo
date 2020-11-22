@@ -278,20 +278,20 @@ Description: acoustic spectrum analyser
   * Adjustable spectral density range
 
 Package: ucon64
-Version: 2.2.0-2
+Version: 2.2.1-1
 Architecture: amd64
 Maintainer: Kogiku <10516420+Kogiku@users.noreply.github.com>
-Installed-Size: 1808
+Installed-Size: 1765
 Depends: libc6 (>= 2.17), zlib1g (>= 1:1.1.4)
 Suggests: libieee1284-3, libusb-0.1-4
 Homepage: http://ucon64.sourceforge.net/index.php
 Priority: optional
 Section: utils
-Filename: pool/main/u/ucon64/ucon64_2.2.0-2_amd64.deb
-Size: 1069412
-SHA256: de01fe756ba8cccfcb6b403ff1d3812191471745df91b4f9d662dc96ebf31eb1
-SHA1: e63758828c6316a4cd7fcbbd21b8dc67346eabaa
-MD5sum: 30d30743cbda5bf50e78f411505bc59f
+Filename: pool/main/u/ucon64/ucon64_2.2.1-1_amd64.deb
+Size: 1045444
+SHA256: 0cf90fc96dd2e85b78af521d0776dfe12d17eae76edad21e370e9b4d768b2315
+SHA1: f61375cf8f72f2ea252988cca535fc605667b125
+MD5sum: 7b1f59458a46c38e7fbe63962cd5a707
 Description: backup tool and wonderful emulator's Swiss Army knife
  uCON64 is completely Open Source Software and has been ported to many
  platforms using code from various people
@@ -315,8 +315,8 @@ Description: backup tool and wonderful emulator's Swiss Army knife
  Have a look at uCON64misc[1] for support files like parport drivers or at
  uCON64dat[2] for DAT files generated with/for uCON64
  .
- [1] http://ucon64.sourceforge.net/index.php#ucon64misc
- [2] http://ucon64.sourceforge.net/index.php#ucon64dat
+ [1] https://ucon64.sourceforge.io/#ucon64misc
+ [2] https://ucon64.sourceforge.io/#ucon64dat
 
 Package: waifu2x-converter-cpp
 Version: 5.3.3-2
