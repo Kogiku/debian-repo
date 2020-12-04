@@ -28,4 +28,5 @@ Included packages:
  * **solarc-theme** (from https://github.com/schemar/solarc-theme)
  * **spek-alternative** (from https://github.com/withmorten/spek-alternative)
  * **ucon64** (from https://ucon64.sourceforge.io)
+ * **waifu2x-ncnn-vulkan** (from https://github.com/nihui/waifu2x-ncnn-vulkan)
  * **xelfviewer** (from https://github.com/horsicq/XELFViewer)
