@@ -27,6 +27,7 @@ Included packages:
  * **sc-controller** (from https://github.com/Ryochan7/sc-controller)
  * **solarc-theme** (from https://github.com/schemar/solarc-theme)
  * **spek-alternative** (from https://github.com/withmorten/spek-alternative)
+ * **srmd-ncnn-vulkan** (from https://github.com/nihui/srmd-ncnn-vulkan)
  * **ucon64** (from https://ucon64.sourceforge.io)
  * **waifu2x-ncnn-vulkan** (from https://github.com/nihui/waifu2x-ncnn-vulkan)
  * **xelfviewer** (from https://github.com/horsicq/XELFViewer)
