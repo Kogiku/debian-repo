@@ -318,27 +318,6 @@ Description: backup tool and wonderful emulator's Swiss Army knife
  [1] https://ucon64.sourceforge.io/#ucon64misc
  [2] https://ucon64.sourceforge.io/#ucon64dat
 
-Package: waifu2x-converter-cpp
-Version: 5.3.3-3
-Architecture: amd64
-Maintainer: Kogiku <10516420+Kogiku@users.noreply.github.com>
-Installed-Size: 27970
-Depends: libc6 (>= 2.29), libgcc-s1 (>= 3.0), libopencv-core4.2 (>= 4.2.0+dfsg), libopencv-imgcodecs4.2 (>= 4.2.0+dfsg), libopencv-imgproc4.2 (>= 4.2.0+dfsg), libstdc++6 (>= 9)
-Conflicts: libw2xc
-Homepage: https://github.com/DeadSix27/waifu2x-converter-cpp
-Priority: optional
-Section: graphics
-Filename: pool/main/w/waifu2x-converter-cpp/waifu2x-converter-cpp_5.3.3-3_amd64.deb
-Size: 10782296
-SHA256: f9c1722611c569ea91a854bb6026916e312f7d3d79c6fc0f7c9cb90540596c40
-SHA1: 21f75950ef19179359fd0642109284534554bfa8
-MD5sum: 50593097070796a3f30b8ff9ab042195
-Description: image super-resolution for anime-style art
- waifu2x-converter-cpp is a reimplementation of waifu2x converter function, in
- C++, using OpenCV. This is also a reimplementation of waifu2x python version
- by Hector Martin. You can use this as command-line tool of image noise
- reduction or/and scaling.
-
 Package: xelfviewer
 Version: 0.01-1
 Architecture: amd64

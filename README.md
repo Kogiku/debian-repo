@@ -27,5 +27,4 @@ Included packages:
  * **solarc-theme** (from https://github.com/schemar/solarc-theme)
  * **spek-alternative** (from https://github.com/withmorten/spek-alternative)
  * **ucon64** (from https://ucon64.sourceforge.io)
- * **waifu2x-converter-cpp** (from https://github.com/DeadSix27/waifu2x-converter-cpp)
  * **xelfviewer** (from https://github.com/horsicq/XELFViewer)
