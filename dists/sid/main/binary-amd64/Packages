@@ -175,6 +175,30 @@ Description: linker/compiler/packer identifier utility
  * nfd - GUI version
  * nfdc - console version
 
+Package: ncnn
+Version: 20200916-1
+Architecture: amd64
+Maintainer: Kogiku <10516420+Kogiku@users.noreply.github.com>
+Installed-Size: 18027
+Homepage: https://github.com/Tencent/ncnn
+Priority: optional
+Section: libdevel
+Filename: pool/main/n/ncnn/ncnn_20200916-1_amd64.deb
+Size: 1125324
+SHA256: c44431e9d561881a4293272ba5d4f2642c6027b59537418ab3fec1b2706b6579
+SHA1: 95f0764b4541a42412faf9bb14f9dae073f1cb3c
+MD5sum: 74e9010858e27f6cefb826d26fa68033
+Description: high-performance neural network inference framework
+ ncnn is a high-performance neural network inference computing framework
+ optimized for mobile platforms. ncnn is deeply considerate about deployment
+ and uses on mobile phones from the beginning of design. ncnn does not have
+ third party dependencies. it is cross-platform, and runs faster than all known
+ open source frameworks on mobile phone cpu. Developers can easily deploy deep
+ learning algorithm models to the mobile platform by using efficient ncnn
+ implementation, create intelligent APPs, and bring the artificial intelligence
+ to your fingertips. ncnn is currently being used in many Tencent applications,
+ such as QQ, Qzone, WeChat, Pitu and so on.
+
 Package: patchmatrix
 Version: 2:0.20.0-1
 Architecture: amd64

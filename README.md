@@ -21,6 +21,7 @@ Included packages:
  * **gnome-icon-theme-s** (from https://github.com/Kogiku/gnome-icon-theme-s)
  * **gogo:i386** (from https://github.com/teragonaudio/gogo-no-coda)
  * **mupen64plus-video-gliden64** (from https://github.com/gonetz/GLideN64)
+ * **ncnn** (from https://github.com/Tencent/ncnn)
  * **nauz-file-detector** (from https://github.com/horsicq/Nauz-File-Detector)
  * **patchmatrix** (from https://github.com/OpenMusicKontrollers/patchmatrix)
  * **sc-controller** (from https://github.com/Ryochan7/sc-controller)
