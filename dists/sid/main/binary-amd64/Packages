@@ -176,18 +176,18 @@ Description: linker/compiler/packer identifier utility
  * nfdc - console version
 
 Package: ncnn
-Version: 20200916-1
+Version: 20201208-1
 Architecture: amd64
 Maintainer: Kogiku <10516420+Kogiku@users.noreply.github.com>
-Installed-Size: 18027
+Installed-Size: 18626
 Homepage: https://github.com/Tencent/ncnn
 Priority: optional
 Section: libdevel
-Filename: pool/main/n/ncnn/ncnn_20200916-1_amd64.deb
-Size: 1125324
-SHA256: c44431e9d561881a4293272ba5d4f2642c6027b59537418ab3fec1b2706b6579
-SHA1: 95f0764b4541a42412faf9bb14f9dae073f1cb3c
-MD5sum: 74e9010858e27f6cefb826d26fa68033
+Filename: pool/main/n/ncnn/ncnn_20201208-1_amd64.deb
+Size: 1161288
+SHA256: 9cb0c2aa9c54ef2f9d9c77226732edc56045b6d3f76fa20f279b726a9a71c9c1
+SHA1: 2d0ecba3b2a844eb87a5ccd3d3c3cafb992dc27d
+MD5sum: 22fb9a9f415e0d00190af694985eb8f8
 Description: high-performance neural network inference framework
  ncnn is a high-performance neural network inference computing framework
  optimized for mobile platforms. ncnn is deeply considerate about deployment
