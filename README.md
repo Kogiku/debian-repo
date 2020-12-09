@@ -4,13 +4,13 @@
 deb https://kogiku.github.io/debian-repo/ sid main
 deb-src https://kogiku.github.io/debian-repo/ sid main
 ```
-2. Download the public GPG key (you can delete this after step 3):
+2. Download the public GPG key:
 ```
-wget -nv https://kogiku.github.io/debian-repo/public.key -O public.key
+wget -nv https://kogiku.github.io/debian-repo/public.key -O kogiku-github.asc
 ```
 3. Then run the following as root:
 ```
-apt-key add - < public.key
+sudo mv -f kogiku-github.asc /etc/apt/trusted.gpg.d/
 apt update
 ```
 Included packages:
