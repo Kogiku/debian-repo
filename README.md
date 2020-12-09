@@ -20,7 +20,6 @@ Included packages:
  * **exhale** (from https://gitlab.com/ecodis/exhale)
  * **gnome-icon-theme-s** (from https://github.com/Kogiku/gnome-icon-theme-s)
  * **gogo:i386** (from https://github.com/teragonaudio/gogo-no-coda)
- * **mupen64plus-video-gliden64** (from https://github.com/gonetz/GLideN64)
  * **nauz-file-detector** (from https://github.com/horsicq/Nauz-File-Detector)
  * **ncnn** (from https://github.com/Tencent/ncnn)
  * **patchmatrix** (from https://github.com/OpenMusicKontrollers/patchmatrix)

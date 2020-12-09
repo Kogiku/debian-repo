@@ -131,30 +131,6 @@ Description: updated GNOME 3.12 icon theme with soft color variants
   * Stardust (purple)
   * Steel (grey)
 
-Package: mupen64plus-video-gliden64
-Version: 4.0-2
-Architecture: amd64
-Maintainer: Kogiku <10516420+Kogiku@users.noreply.github.com>
-Installed-Size: 1513
-Depends: libc6 (>= 2.29), libfreetype6 (>= 2.2.1), libgl1, libglu1-mesa | libglu1, libpng16-16 (>= 1.6.2-1), libstdc++6 (>= 6), zlib1g (>= 1:1.1.4), mupen64plus-config-abi-2.2, mupen64plus-gfx-abi-2.2, mupen64plus-vidext-abi-3
-Breaks: libmupen64plus2 (<< 2.0)
-Provides: mupen64plus-video
-Multi-Arch: same
-Homepage: http://gliden64.blogspot.com.br/
-Priority: optional
-Section: games
-Filename: pool/main/m/mupen64plus-video-gliden64/mupen64plus-video-gliden64_4.0-2_amd64.deb
-Size: 458848
-SHA256: d02baa60751b3fab56225bf9d08dc512286377d665d1144186d357990235e0bc
-SHA1: 2c1368303a6142e583afb4852607db1581d52212
-MD5sum: 6de377b8dc5cabbcdc985440f9fbbf33
-Description: GLideN64 OpenGL graphics HLE plugin for Mupen64Plus
- GLideN64 is based on sources of Orkin's OpenGL graphics plugin glN64 and aims
- to have the same features of Glide64 using the power of modern OpenGL with
- more accurate HLE emulation.
- .
- It needs graphic card with support of OpenGL 4.2 or better.
-
 Package: nauz-file-detector
 Version: 0.04-1
 Architecture: amd64
