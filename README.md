@@ -10,7 +10,7 @@ wget -nv https://kogiku.github.io/debian-repo/public.key -O kogiku-github.asc
 ```
 3. Then run the following as root:
 ```
-sudo mv -f kogiku-github.asc /etc/apt/trusted.gpg.d/
+mv -f kogiku-github.asc /etc/apt/trusted.gpg.d/
 apt update
 ```
 Included packages:
