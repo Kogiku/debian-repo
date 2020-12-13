@@ -50,38 +50,39 @@ Description: fast MP3 encoder based on LAME
 
 Package: kogiku-apt-source
 Source: kogiku-archive-keyring
-Version: 20200106-1
+Version: 2020.1-1
 Architecture: all
 Maintainer: Kogiku <10516420+Kogiku@users.noreply.github.com>
 Installed-Size: 14
+Depends: kogiku-archive-keyring
 Homepage: https://github.com/Kogiku/debian-repo
 Priority: optional
 Section: misc
-Filename: pool/main/k/kogiku-archive-keyring/kogiku-apt-source_20200106-1_all.deb
-Size: 2044
-SHA256: c1ed34aa20348a100e246c23d5b485169b7f6601de37faaa3559d306b00e3cdd
-SHA1: daa7ca70ccbfb1afca6898ac57769dba8243bbe9
-MD5sum: 7b6b1620006e624180f9f1b16119848c
+Filename: pool/main/k/kogiku-archive-keyring/kogiku-apt-source_2020.1-1_all.deb
+Size: 2052
+SHA256: 6ae9c7073786174dd04f6b1a91dfddd965de99b3309a8f83f9e0468559a7db07
+SHA1: 82a79f6a9cdfbcfe63e30309973e12da32b6a542
+MD5sum: 21c8e953fea4981fae19fb3b8a4c8ae7
 Description: source file for Kogiku's GitHub repository
- This package contain the source file for Kogiku's GitHub repository.
+ This package contains the source file for Kogiku's GitHub repository.
  .
  /etc/apt/sources.list.d/kogiku.sources
 
 Package: kogiku-archive-keyring
-Version: 20200106-1
+Version: 2020.1-1
 Architecture: all
 Maintainer: Kogiku <10516420+Kogiku@users.noreply.github.com>
 Installed-Size: 12
 Homepage: https://github.com/Kogiku/debian-repo
 Priority: optional
 Section: misc
-Filename: pool/main/k/kogiku-archive-keyring/kogiku-archive-keyring_20200106-1_all.deb
-Size: 3612
-SHA256: 8a55f22f52bbd5ff821d5bcb6c09cc45648648cee8dfcc6673e624d27df36b71
-SHA1: 70169cf86e62d5624ff3c260569c50056e3bedc0
-MD5sum: 62fd286bcfa207fed60897cf97582798
-Description: GPG archive key for Kogiku's GitHub repository
- This package contain the GPG archive key for Kogiku's GitHub repository.
+Filename: pool/main/k/kogiku-archive-keyring/kogiku-archive-keyring_2020.1-1_all.deb
+Size: 3604
+SHA256: f05f0fc4a96e44081d0b3a370e25882038a31ceaeaeec287793421368e055694
+SHA1: 4574b025c8dea0e12a8211afef8dd2c5ef0ac253
+MD5sum: 54fa76e59ce49b7b5f5777aeb07791fb
+Description: GnuPG archive key for Kogiku's GitHub repository
+ This package contain the GnuPG archive key for Kogiku's GitHub repository.
  .
  /usr/share/keyrings/kogiku-archive-keyring.gpg
 
