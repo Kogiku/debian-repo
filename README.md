@@ -1,16 +1,12 @@
 **Using third-party repositories as instructed below is not supported by the Debian project and could break your system now or when you upgrade later. Use with caution at your own risk!**
-1. Edit your `/etc/apt/sources.list` file and add the following line(s) to it:
+1. Download packages containing the apt source file and public GPG key:
 ```
-deb [signed-by=/usr/share/keyrings/kogiku-archive-keyring.gpg] https://kogiku.github.io/debian-repo/ sid main
-deb-src [signed-by=/usr/share/keyrings/kogiku-archive-keyring.gpg] https://kogiku.github.io/debian-repo/ sid main
+wget https://kogiku.github.io/debian-repo/pool/main/k/kogiku-apt-source_20200106-1_all.deb
+wget https://kogiku.github.io/debian-repo/pool/main/k/kogiku-archive-keyring_20200106-1_all.deb
 ```
-2. Download the public GPG key:
+2. Then (as root) install the downloaded packages and update:
 ```
-wget -nv https://kogiku.github.io/debian-repo/kogiku-archive-keyring.gpg
-```
-3. Then (as root) move the key and update:
-```
-mv -f kogiku-archive-keyring.gpg /usr/share/keyrings/
+apt install ./kogiku-*.deb
 apt update
 ```
 Included packages:

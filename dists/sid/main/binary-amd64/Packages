@@ -131,6 +131,43 @@ Description: updated GNOME 3.12 icon theme with soft color variants
   * Stardust (purple)
   * Steel (grey)
 
+Package: kogiku-apt-source
+Source: kogiku-archive-keyring
+Version: 20200106-1
+Architecture: all
+Maintainer: Kogiku <10516420+Kogiku@users.noreply.github.com>
+Installed-Size: 14
+Homepage: https://github.com/Kogiku/debian-repo
+Priority: optional
+Section: misc
+Filename: pool/main/k/kogiku-archive-keyring/kogiku-apt-source_20200106-1_all.deb
+Size: 2044
+SHA256: c1ed34aa20348a100e246c23d5b485169b7f6601de37faaa3559d306b00e3cdd
+SHA1: daa7ca70ccbfb1afca6898ac57769dba8243bbe9
+MD5sum: 7b6b1620006e624180f9f1b16119848c
+Description: source file for Kogiku's GitHub repository
+ This package contain the source file for Kogiku's GitHub repository.
+ .
+ /etc/apt/sources.list.d/kogiku.sources
+
+Package: kogiku-archive-keyring
+Version: 20200106-1
+Architecture: all
+Maintainer: Kogiku <10516420+Kogiku@users.noreply.github.com>
+Installed-Size: 12
+Homepage: https://github.com/Kogiku/debian-repo
+Priority: optional
+Section: misc
+Filename: pool/main/k/kogiku-archive-keyring/kogiku-archive-keyring_20200106-1_all.deb
+Size: 3612
+SHA256: 8a55f22f52bbd5ff821d5bcb6c09cc45648648cee8dfcc6673e624d27df36b71
+SHA1: 70169cf86e62d5624ff3c260569c50056e3bedc0
+MD5sum: 62fd286bcfa207fed60897cf97582798
+Description: GPG archive key for Kogiku's GitHub repository
+ This package contain the GPG archive key for Kogiku's GitHub repository.
+ .
+ /usr/share/keyrings/kogiku-archive-keyring.gpg
+
 Package: nauz-file-detector
 Version: 0.04-1
 Architecture: amd64
