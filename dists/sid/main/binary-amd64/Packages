@@ -355,7 +355,7 @@ Description: SRMD super resolution implemented with ncnn library
  Uses ncnn project as the universal neural network inference framework.
 
 Package: ucon64
-Version: 2.2.1-1
+Version: 2.2.1-2
 Architecture: amd64
 Maintainer: Kogiku <10516420+Kogiku@users.noreply.github.com>
 Installed-Size: 1765
@@ -364,11 +364,11 @@ Suggests: libieee1284-3, libusb-0.1-4
 Homepage: http://ucon64.sourceforge.net/index.php
 Priority: optional
 Section: utils
-Filename: pool/main/u/ucon64/ucon64_2.2.1-1_amd64.deb
-Size: 1045444
-SHA256: 0cf90fc96dd2e85b78af521d0776dfe12d17eae76edad21e370e9b4d768b2315
-SHA1: f61375cf8f72f2ea252988cca535fc605667b125
-MD5sum: 7b1f59458a46c38e7fbe63962cd5a707
+Filename: pool/main/u/ucon64/ucon64_2.2.1-2_amd64.deb
+Size: 1045916
+SHA256: 6b01fd96b7b4a9c6352b312ac055457e20c668663c345cea92adee658d3fe27e
+SHA1: 13be1a1bbba2dcadb29d2ae352e7182936a046f8
+MD5sum: dad6cb56a2a75d999465ebb8c8c092e1
 Description: backup tool and wonderful emulator's Swiss Army knife
  uCON64 is completely Open Source Software and has been ported to many
  platforms using code from various people
