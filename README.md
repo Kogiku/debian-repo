@@ -21,6 +21,7 @@ Included packages:
  * **patchmatrix** (from https://github.com/OpenMusicKontrollers/patchmatrix)
  * **realsr-ncnn-vulkan** (from https://github.com/nihui/realsr-ncnn-vulkan)
  * **sc-controller** (from https://github.com/Ryochan7/sc-controller)
+ * **sdlpal** (from https://github.com/sdlpal/sdlpal)
  * **solarc-theme** (from https://github.com/schemar/solarc-theme)
  * **spek-alternative** (from https://github.com/withmorten/spek-alternative)
  * **srmd-ncnn-vulkan** (from https://github.com/nihui/srmd-ncnn-vulkan)
