@@ -30,7 +30,7 @@ Description: updated GNOME 3.12 icon theme with soft color variants
 
 Package: gogo
 Source: gogo-no-coda
-Version: 3.13-1
+Version: 3.13-2
 Architecture: i386
 Maintainer: Kogiku <10516420+Kogiku@users.noreply.github.com>
 Installed-Size: 277
@@ -39,11 +39,11 @@ Conflicts: gogo-no-coda
 Homepage: https://github.com/teragonaudio/gogo-no-coda
 Priority: optional
 Section: sound
-Filename: pool/main/g/gogo-no-coda/gogo_3.13-1_i386.deb
-Size: 101884
-SHA256: a89128507e3d1e8a383d40b9c2ead85d6ca0f35d66b26d88275a68ca1197fbc3
-SHA1: f16ede3cb3e4fb33e92c5e8216abfb51ed3a80d5
-MD5sum: d932cbea5e19dabc3b9c5c8d4189f82d
+Filename: pool/main/g/gogo-no-coda/gogo_3.13-2_i386.deb
+Size: 102076
+SHA256: 41c2d1bee08bb92049d289fe4d0cbdaff49972e8cda4a1e664b2374e13fcd207
+SHA1: 393588e57eb92f481aa7de933f6e0885cff9634e
+MD5sum: 67ddd70af5b3e8840f519555312ec749
 Description: fast MP3 encoder based on LAME
  GOGO-no-coda (or gogo) is a MP3 encoder based on LAME3.88, which is optimized
  for Enhanced 3D Now!/SSE/SSE2 and dual-CPUs.
