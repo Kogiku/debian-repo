@@ -420,19 +420,19 @@ Description: backup tool and wonderful emulator's Swiss Army knife
  [2] https://ucon64.sourceforge.io/#ucon64dat
 
 Package: waifu2x-ncnn-vulkan
-Version: 20200818-1
+Version: 20210102-1
 Architecture: amd64
 Maintainer: Kogiku <10516420+Kogiku@users.noreply.github.com>
-Installed-Size: 46206
+Installed-Size: 46619
 Depends: libc6 (>= 2.29), libgcc-s1 (>= 3.3.1), libgomp1 (>= 4.9), libstdc++6 (>= 9), libvulkan1 (>= 1.2.131.2), libwebp6 (>= 0.5.1)
 Homepage: https://github.com/nihui/waifu2x-ncnn-vulkan
 Priority: optional
 Section: graphics
-Filename: pool/main/w/waifu2x-ncnn-vulkan/waifu2x-ncnn-vulkan_20200818-1_amd64.deb
-Size: 34911628
-SHA256: 038004c8820414430320362386b33ad6ff3418519d8036704ea39647bc3f30a9
-SHA1: 4475f5c9875f3fa9bb2d4510d3e4bfcb5635d101
-MD5sum: db22bcf9ee504f08dcb91ee87bc3d38b
+Filename: pool/main/w/waifu2x-ncnn-vulkan/waifu2x-ncnn-vulkan_20210102-1_amd64.deb
+Size: 34962084
+SHA256: e40a89d6c50acbec6007c7f8307416b5270ccbd2a84253fedd1972c663941bd4
+SHA1: a2cc20f46d49b9a28ad065fd2fb9cf1e5ccc43fb
+MD5sum: aad2e980ca7ee1a65c96f71db409ffde
 Description: waifu2x converter ncnn version
  waifu2x-ncnn-vulkan is a ncnn implementation of waifu2x converter. Runs fast
  on Intel / AMD / Nvidia with Vulkan API.
