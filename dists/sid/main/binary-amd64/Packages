@@ -1,18 +1,18 @@
 Package: apindex
-Version: 2.2-2
+Version: 2.2-3
 Architecture: amd64
 Maintainer: Kogiku <10516420+Kogiku@users.noreply.github.com>
-Installed-Size: 60
+Installed-Size: 63
 Depends: python3
 Homepage: https://github.com/libthinkpad/apindex
 Priority: optional
 Section: admin
-Filename: pool/main/a/apindex/apindex_2.2-2_amd64.deb
-Size: 35240
-SHA256: ebf6ef1501f2aa133a29a2d0d36a8e699179e27548ce6eeb0170f3d29b228bdc
-SHA1: 853745175be9b92c2bc3657a19e1fc8c18057826
-MD5sum: 6c4dbbda538958e76bda04ec2b9b67eb
-Description: Static HTML file index generator
+Filename: pool/main/a/apindex/apindex_2.2-3_amd64.deb
+Size: 35856
+SHA256: a45ef80a6a83ef872248b494ac9a32114dcc9cbb184cc0f33a37eb78b819233d
+SHA1: 106b96753e2569d7190bc01ddf31f330b9eb012d
+MD5sum: d1c435ec781585377e9fa5b17999329a
+Description: static HTML file index generator
  This program enables you to generate a file index for static web
  servers such as Github Pages or mini HTTP servers.
 
