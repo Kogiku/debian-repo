@@ -331,20 +331,20 @@ Description: flat theme with transparent elements. Based on the Arc theme
  https://github.com/altercation/solarized
 
 Package: spek-alternative
-Version: 0.8.2.3-2
+Version: 0.8.2.3-3
 Architecture: amd64
 Maintainer: Kogiku <10516420+Kogiku@users.noreply.github.com>
-Installed-Size: 523
-Depends: libavcodec58 (>= 7:4.2), libavformat58 (>= 7:4.1), libavutil56 (>= 7:4.0), libc6 (>= 2.14), libgcc-s1 (>= 3.0), libstdc++6 (>= 5.2), libwxbase3.0-0v5 (>= 3.0.4+dfsg), libwxgtk3.0-gtk3-0v5 (>= 3.0.4+dfsg-10~)
+Installed-Size: 491
+Depends: libavcodec58 (>= 7:4.2), libavformat58 (>= 7:4.1), libavutil56 (>= 7:4.0), libc6 (>= 2.14), libgcc-s1 (>= 3.0), libstdc++6 (>= 5.2), libwxbase3.0-0v5 (>= 3.0.5.1+dfsg), libwxgtk3.0-gtk3-0v5 (>= 3.0.5.1+dfsg)
 Conflicts: spek
 Homepage: https://github.com/withmorten/spek-alternative
 Priority: optional
 Section: sound
-Filename: pool/main/s/spek-alternative/spek-alternative_0.8.2.3-2_amd64.deb
-Size: 111320
-SHA256: a1210407becf8841f94c26ceff4c90dd065ffbb16e3f219d972ca8068b918a95
-SHA1: a10f3e909dc300a381edcfb7c9c976a35ce7de03
-MD5sum: f8928fa92ff5a5bef32b95e4d3054dae
+Filename: pool/main/s/spek-alternative/spek-alternative_0.8.2.3-3_amd64.deb
+Size: 101988
+SHA256: b1e8ceff0d978dd7af5ed1a044978dd70e3f7e3d21246b72955df3db324aabc5
+SHA1: c9cae4579fad2ad50c368272767a3eafc2442e97
+MD5sum: b79c54e8921c39abada26dd319e7aa6e
 Description: acoustic spectrum analyser
  Spek helps to analyse your audio files by showing their spectrogram.
  It supports all popular lossy and lossless audio file formats.
