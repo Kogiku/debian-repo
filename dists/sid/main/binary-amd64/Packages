@@ -170,19 +170,19 @@ Description: GnuPG archive key for Kogiku's GitHub repository
  /usr/share/keyrings/kogiku-archive-keyring.gpg
 
 Package: nauz-file-detector
-Version: 0.04-1
+Version: 0.04-2
 Architecture: amd64
 Maintainer: Kogiku <10516420+Kogiku@users.noreply.github.com>
-Installed-Size: 3048
-Depends: libc6 (>= 2.29), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.12.2), libqt5gui5 (>= 5.0.2) | libqt5gui5-gles (>= 5.0.2), libqt5widgets5 (>= 5.0.2), libstdc++6 (>= 5), libicu67, libqt5dbus5, libqt5gui5
+Installed-Size: 2850
+Depends: libc6 (>= 2.29), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.0.2) | libqt5gui5-gles (>= 5.0.2), libqt5widgets5 (>= 5.0.2), libstdc++6 (>= 5), libicu67, libqt5dbus5, libqt5gui5
 Homepage: http://ntinfo.biz/
 Priority: optional
 Section: utils
-Filename: pool/main/n/nauz-file-detector/nauz-file-detector_0.04-1_amd64.deb
-Size: 597068
-SHA256: 9157776f6322f4b31fcd25a71af92ee4002efbcd0cab33cb244a580145d4545e
-SHA1: a13884d5bd2674655c46212d8ec31864bd964572
-MD5sum: b449b311d08c378bde1941faac540555
+Filename: pool/main/n/nauz-file-detector/nauz-file-detector_0.04-2_amd64.deb
+Size: 577936
+SHA256: 87910fdb11bc9995e37aac7fad2c89a7bb552ee92dc261751240e28ae30471a1
+SHA1: 4f7cdd14d949ec7356a5bb663873af4a9837f816
+MD5sum: 3b0729190302492f895366e9c2a02960
 Description: linker/compiler/packer identifier utility
  Nauz File Detector (or nfd) is a linker/compiler/packer identifier utility.
  .
