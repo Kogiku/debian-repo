@@ -440,19 +440,19 @@ Description: waifu2x converter ncnn version
  Uses ncnn project as the universal neural network inference framework.
 
 Package: xelfviewer
-Version: 0.01-1
+Version: 0.01-2
 Architecture: amd64
 Maintainer: Kogiku <10516420+Kogiku@users.noreply.github.com>
-Installed-Size: 2420
-Depends: libc6 (>= 2.29), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.12.2), libqt5gui5 (>= 5.3.0) | libqt5gui5-gles (>= 5.3.0), libqt5opengl5 (>= 5.0.2), libqt5svg5 (>= 5.6.0~beta), libqt5widgets5 (>= 5.2.0~alpha1), libstdc++6 (>= 4.9), libicu67, libqt5dbus5, libqt5gui5
+Installed-Size: 2255
+Depends: libc6 (>= 2.29), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5opengl5 (>= 5.0.2), libqt5svg5 (>= 5.6.0~beta), libqt5widgets5 (>= 5.15.1), libstdc++6 (>= 4.9), libicu67, libqt5dbus5, libqt5gui5
 Homepage: http://ntinfo.biz/
 Priority: optional
 Section: utils
-Filename: pool/main/x/xelfviewer/xelfviewer_0.01-1_amd64.deb
-Size: 784836
-SHA256: 49b546a579be6ab541596bf3fd487ddcd5869736038b1ed9dd622906c10c3094
-SHA1: 13ca50414a05f423663ee4879080a10f7818799e
-MD5sum: 09983f215b1391188a8e62d52d19c037
+Filename: pool/main/x/xelfviewer/xelfviewer_0.01-2_amd64.deb
+Size: 752480
+SHA256: 634cb3bf8e48e019bfc8d40b6e9f7e61d62db8908cca50235a826ab558aeac64
+SHA1: a58799aef2f6164ede37a543fcc02f06f3a8c072
+MD5sum: b2fd53ff6fbb2a64f3a227dcba9d23c4
 Description: ELF file viewer/editor
  XELFViewer is an ELF file viewer/editor.
 
