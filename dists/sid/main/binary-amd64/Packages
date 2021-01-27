@@ -169,6 +169,113 @@ Description: GnuPG archive key for Kogiku's GitHub repository
  .
  /usr/share/keyrings/kogiku-archive-keyring.gpg
 
+Package: libvorbis-aotuv-dev
+Source: libvorbis-aotuv
+Version: 1.3.6~b6.03-1
+Architecture: amd64
+Maintainer: Kogiku <10516420+Kogiku@users.noreply.github.com>
+Installed-Size: 1737
+Depends: libogg-dev, libvorbis-aotuv0 (= 1.3.6~b6.03-1), libvorbisenc-aotuv2 (= 1.3.6~b6.03-1), libvorbisfile-aotuv3 (= 1.3.6~b6.03-1)
+Conflicts: libvorbis-dev
+Provides: libvorbis-dev (= 1.3.6~b6.03-1)
+Multi-Arch: same
+Homepage: https://ao-yumi.github.io/aotuv_web/
+Priority: optional
+Section: libdevel
+Filename: pool/main/libv/libvorbis-aotuv/libvorbis-aotuv-dev_1.3.6~b6.03-1_amd64.deb
+Size: 337808
+SHA256: fe1d461ac00fac1d97971c2e7aaa87f8022885b95c29814a9f02f68d2636924c
+SHA1: 455f16ad54b43dd5ff0691e9f6c269e17b6c0474
+MD5sum: 2a464d9651e17f1547d8f81e46575b49
+Description: development files for Vorbis General Audio Compression Codec
+ aoTuV (Aoyumi's Tuned Vorbis) is software library for encoding and decoding of
+ OggVorbis that modified encoding part of Xiph.Org's libvorbis.
+ .
+ This package contains the header files and documentation needed to develop
+ applications with libvorbis.
+ .
+ This package replaces the libvorbis-dev package.
+
+Package: libvorbis-aotuv0
+Source: libvorbis-aotuv
+Version: 1.3.6~b6.03-1
+Architecture: amd64
+Maintainer: Kogiku <10516420+Kogiku@users.noreply.github.com>
+Installed-Size: 224
+Depends: libc6 (>= 2.29), libogg0 (>= 1.1.0)
+Conflicts: libvorbis0a
+Provides: libvorbis0a (= 1.3.6~b6.03-1)
+Multi-Arch: same
+Homepage: https://ao-yumi.github.io/aotuv_web/
+Priority: optional
+Section: libs
+Filename: pool/main/libv/libvorbis-aotuv/libvorbis-aotuv0_1.3.6~b6.03-1_amd64.deb
+Size: 102736
+SHA256: 7cbad21770dd3773261052062f4ce1b350f104be8467c6dda2207792c31bb4a1
+SHA1: 2ddb0ed42438d02b433fa729c063d7485d3a6c14
+MD5sum: de6366a9ff856b8677d1e8c2870b9354
+Description: aoTuV is a third-party development/tuning of the Vorbis encoder.
+ aoTuV (Aoyumi's Tuned Vorbis) is software library for encoding and decoding of
+ OggVorbis that modified encoding part of Xiph.Org's libvorbis.
+ .
+ The Vorbis library is the primary Ogg Vorbis library.
+ .
+ This package replaces the libvorbis0a package.
+
+Package: libvorbisenc-aotuv2
+Source: libvorbis-aotuv
+Version: 1.3.6~b6.03-1
+Architecture: amd64
+Maintainer: Kogiku <10516420+Kogiku@users.noreply.github.com>
+Installed-Size: 726
+Depends: libc6 (>= 2.4), libvorbis-aotuv0 (= 1.3.6~b6.03-1)
+Conflicts: libvorbisenc2
+Provides: libvorbisenc2 (= 1.3.6~b6.03-1)
+Multi-Arch: same
+Homepage: https://ao-yumi.github.io/aotuv_web/
+Priority: optional
+Section: libs
+Filename: pool/main/libv/libvorbis-aotuv/libvorbisenc-aotuv2_1.3.6~b6.03-1_amd64.deb
+Size: 84796
+SHA256: 41ac9106ebf7df9c045f979d70d9bdc5d8e05d895a96423bbac863ec3fbb92db
+SHA1: 8e5212d45237c57001e047c18fd7783fd1b1bfc0
+MD5sum: b4a10842e35759c6baa03652f8c6eed9
+Description: encoder library for Vorbis General Audio Compression Codec
+ aoTuV (Aoyumi's Tuned Vorbis) is software library for encoding and decoding of
+ OggVorbis that modified encoding part of Xiph.Org's libvorbis.
+ .
+ The Vorbisenc library provides a convenient API for setting up an encoding
+ environment using libvorbis.
+ .
+ This package replaces the libvorbisenc2 package.
+
+Package: libvorbisfile-aotuv3
+Source: libvorbis-aotuv
+Version: 1.3.6~b6.03-1
+Architecture: amd64
+Maintainer: Kogiku <10516420+Kogiku@users.noreply.github.com>
+Installed-Size: 69
+Depends: libc6 (>= 2.14), libogg0 (>= 1.1.0), libvorbis-aotuv0 (= 1.3.6~b6.03-1)
+Conflicts: libvorbisfile3
+Provides: libvorbisfile3 (= 1.3.6~b6.03-1)
+Multi-Arch: same
+Homepage: https://ao-yumi.github.io/aotuv_web/
+Priority: optional
+Section: libs
+Filename: pool/main/libv/libvorbis-aotuv/libvorbisfile-aotuv3_1.3.6~b6.03-1_amd64.deb
+Size: 29324
+SHA256: 4aa8dd4559e407c7f4170d0680776dd138fd619be39b046686ada74db5739983
+SHA1: b7dae19bd9337b00a639fd80bd59cab34f59e19f
+MD5sum: 86de55f10b2eecce13af39ae8180c73e
+Description: high-level API for Vorbis General Audio Compression Codec
+ aoTuV (Aoyumi's Tuned Vorbis) is software library for encoding and decoding of
+ OggVorbis that modified encoding part of Xiph.Org's libvorbis.
+ .
+ The Vorbisfile library provides a convenient high-level API for decoding
+ and basic manipulation of all Vorbis-I audio streams.
+ .
+ This package replaces the libvorbisfile3 package.
+
 Package: nauz-file-detector
 Version: 0.04-2
 Architecture: amd64
