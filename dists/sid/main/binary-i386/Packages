@@ -139,25 +139,6 @@ Description: aoTuV is a third-party development/tuning of the Vorbis encoder.
  .
  This package replaces the libvorbis0a package.
 
-Package: libvorbis-aotuv0-dbgsym
-Source: libvorbis-aotuv
-Version: 1.3.6~b6.03-1
-Auto-Built-Package: debug-symbols
-Architecture: i386
-Maintainer: Kogiku <10516420+Kogiku@users.noreply.github.com>
-Installed-Size: 156
-Depends: libvorbis-aotuv0 (= 1.3.6~b6.03-1)
-Multi-Arch: same
-Priority: optional
-Section: debug
-Filename: pool/main/libv/libvorbis-aotuv/libvorbis-aotuv0-dbgsym_1.3.6~b6.03-1_i386.deb
-Size: 143672
-SHA256: 9bd766647271c5da5b8c4d89119b3449bc7263628b2a3808794003fbbebe641b
-SHA1: 9ba79be4555ac6151b29e4f71bea0dc15d75eaf0
-MD5sum: 0a8ec33a73e35c945fbc2cec5372f040
-Description: debug symbols for libvorbis-aotuv0
-Build-Ids: dd7328470ad1a23b38a7c7da4607d0d1b78d0bd8
-
 Package: libvorbisenc-aotuv2
 Source: libvorbis-aotuv
 Version: 1.3.6~b6.03-1
@@ -185,25 +166,6 @@ Description: encoder library for Vorbis General Audio Compression Codec
  .
  This package replaces the libvorbisenc2 package.
 
-Package: libvorbisenc-aotuv2-dbgsym
-Source: libvorbis-aotuv
-Version: 1.3.6~b6.03-1
-Auto-Built-Package: debug-symbols
-Architecture: i386
-Maintainer: Kogiku <10516420+Kogiku@users.noreply.github.com>
-Installed-Size: 148
-Depends: libvorbisenc-aotuv2 (= 1.3.6~b6.03-1)
-Multi-Arch: same
-Priority: optional
-Section: debug
-Filename: pool/main/libv/libvorbis-aotuv/libvorbisenc-aotuv2-dbgsym_1.3.6~b6.03-1_i386.deb
-Size: 63528
-SHA256: dab27b35ffd6bb92558f08f02eb7b24edfab3b7c155ba4aa2b2b58e1dd70a9df
-SHA1: 419cc13d05b82cf04ed05779f4883321653db418
-MD5sum: 657f56c9aea396dfb389ce7444ba16cb
-Description: debug symbols for libvorbisenc-aotuv2
-Build-Ids: f55560ab72219f8bdd51949a2454e2ac1e18d491
-
 Package: libvorbisfile-aotuv3
 Source: libvorbis-aotuv
 Version: 1.3.6~b6.03-1
@@ -230,25 +192,6 @@ Description: high-level API for Vorbis General Audio Compression Codec
  and basic manipulation of all Vorbis-I audio streams.
  .
  This package replaces the libvorbisfile3 package.
-
-Package: libvorbisfile-aotuv3-dbgsym
-Source: libvorbis-aotuv
-Version: 1.3.6~b6.03-1
-Auto-Built-Package: debug-symbols
-Architecture: i386
-Maintainer: Kogiku <10516420+Kogiku@users.noreply.github.com>
-Installed-Size: 46
-Depends: libvorbisfile-aotuv3 (= 1.3.6~b6.03-1)
-Multi-Arch: same
-Priority: optional
-Section: debug
-Filename: pool/main/libv/libvorbis-aotuv/libvorbisfile-aotuv3-dbgsym_1.3.6~b6.03-1_i386.deb
-Size: 32668
-SHA256: 323d9d8bc59562ad9fadf50379ded42a4406015ac4a682138fbf62ac42b62bc0
-SHA1: abc7bdd040c083c94fcadd32b51d2744d4ac946d
-MD5sum: 968ec850de698791216c741a21a95c37
-Description: debug symbols for libvorbisfile-aotuv3
-Build-Ids: a2c3123f9f8fbe071079acef6a41bafacf7b5379
 
 Package: solarc-theme
 Version: 2.0.0+git20201115-1
