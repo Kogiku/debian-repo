@@ -70,20 +70,20 @@ Description: command line utilities, most for emulation or disk images
   * wordadd: Addition word puzzle solver
 
 Package: exhale
-Version: 1.1.1-1
+Version: 1.1.2-1
 Architecture: amd64
 Maintainer: Kogiku <10516420+Kogiku@users.noreply.github.com>
-Installed-Size: 297
+Installed-Size: 291
 Depends: libc6 (>= 2.29), libgcc-s1 (>= 3.0), libstdc++6 (>= 5)
 Homepage: https://gitlab.com/ecodis/exhale
 Priority: optional
 Section: sound
-Filename: pool/main/e/exhale/exhale_1.1.1-1_amd64.deb
-Size: 122744
-SHA256: 6346fb12365aa9abc752f16e87a197702836ffb5311da0d386cae3b1216f613d
-SHA1: 9ec5d3aa84000522725ccb50abae598ccf98a55a
-MD5sum: 3b3fdb0d303a4fef31d617134addf8f0
-Description: open-source ISO/IEC 23003-3 (USAC, xHE-AAC) encoder
+Filename: pool/main/e/exhale/exhale_1.1.2-1_amd64.deb
+Size: 120800
+SHA256: 2fd8a89d95f9cf43b8d6e5f7fa1270f80adeda37d46967469d50435098cb6668
+SHA1: 557f67e425d0fee173b139663b4f2844727d36ee
+MD5sum: 419df781412e4d6e749ac32b45fddd59
+Description: open-source ISO/IEC 23003-3 (USAC, Extended HE-AAC) encoder
  exhale (or Ecodis eXtended High-efficiency And Low-complexity Encoder) is a
  lightweight library and application to encode uncompressed WAVE-format audio
  files into MPEG-4-format files complying with the ISO/IEC 23003-3 (MPEG-D)
@@ -95,11 +95,10 @@ Description: open-source ISO/IEC 23003-3 (USAC, xHE-AAC) encoder
  (DRC) specification for use by decoders providing DRC.
  .
  exhale currently makes use of all frequency-domain (FD) coding tools in the
- scalefactor based MDCT processing path, except for predictive joint stereo,
- which is still being integrated. Its objective is high quality mono, stereo,
- and multichannel coding at medium and high bit rates, so the lower-rate USAC
- coding tools (ACELP, TCX, Enhanced SBR and MPEG Surround with Unified Stereo
- coding) won't be integrated.
+ scalefactor based MDCT processing path. Its objective is high quality mono,
+ stereo, and multichannel coding at medium and high bit rates, so the
+ lower-rate USAC coding tools (ACELP, TCX, Enhanced SBR and MPEG Surround with
+ Unified Stereo coding) won't be integrated.
 
 Package: gnome-icon-theme-s
 Version: 3.12.0.8-1
