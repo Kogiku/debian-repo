@@ -1,0 +1,110 @@
+*Using third-party repositories as instructed below could break your system now or when you upgrade later.
+Use with caution at your own risk!*
+
+. Download packages containing the apt source file and public GPG key:
++
+----
+wget https://kogiku.github.io/debian-repo/pool/main/k/kogiku-archive-keyring/kogiku-apt-source_2020.1-1_all.deb
+wget https://kogiku.github.io/debian-repo/pool/main/k/kogiku-archive-keyring/kogiku-archive-keyring_2020.1-1_all.deb
+----
+
+. Then (as root) install the downloaded packages and update:
++
+----
+apt install ./kogiku-*.deb
+apt update
+----
+
+[caption=]
+.Included packages:
+[%noheader]
+|====
+
+|*apindex* |https://kogiku.github.io/debian-repo/pool/main/a/apindex/apindex_2.2-3_amd64.deb[amd64]|from https://github.com/libthinkpad/apindex
+
+|*bsnes-plus*
+|https://kogiku.github.io/debian-repo/pool/main/b/bsnes-plus/bsnes-plus_05-4_amd64.deb[amd64]
+|from https://github.com/devinacker/bsnes-plus
+
+|*cmdpack*
+|https://kogiku.github.io/debian-repo/pool/main/c/cmdpack/cmdpack_1.06-2_amd64.deb[amd64]
+|from https://github.com/chungy/cmdpack
+
+|*exhale*
+|https://kogiku.github.io/debian-repo/pool/main/e/exhale/exhale_1.1.2-1_amd64.deb[amd64]
+|from https://gitlab.com/ecodis/exhale
+
+|*gnome-icon-theme-s*
+|https://kogiku.github.io/debian-repo/pool/main/g/gnome-icon-theme-s/gnome-icon-theme-s_3.12.0.8-1_all.deb[all]
+|from https://github.com/Kogiku/gnome-icon-theme-s
+
+|*gogo*
+|https://kogiku.github.io/debian-repo/pool/main/g/gogo-no-coda/gogo_3.13-2_i386.deb[i386]
+|from https://github.com/teragonaudio/gogo-no-coda
+
+|*libvorbis-aotuv0*
+|https://kogiku.github.io/debian-repo/pool/main/libv/libvorbis-aotuv/libvorbis-aotuv0_1.3.6~b6.03-1_amd64.deb[amd64],
+https://kogiku.github.io/debian-repo/pool/main/libv/libvorbis-aotuv/libvorbis-aotuv0_1.3.6~b6.03-1_i386.deb[i386]
+.4+.^|from https://ao-yumi.github.io/aotuv_web
+
+|*libvorbis-aotuv-dev*
+|https://kogiku.github.io/debian-repo/pool/main/libv/libvorbis-aotuv/libvorbis-aotuv-dev_1.3.6~b6.03-1_amd64.deb[amd64],
+https://kogiku.github.io/debian-repo/pool/main/libv/libvorbis-aotuv/libvorbis-aotuv-dev_1.3.6~b6.03-1_i386.deb[i386]
+
+|*libvorbisenc-aotuv2*
+|https://kogiku.github.io/debian-repo/pool/main/libv/libvorbis-aotuv/libvorbisenc-aotuv2_1.3.6~b6.03-1_amd64.deb[amd64],
+https://kogiku.github.io/debian-repo/pool/main/libv/libvorbis-aotuv/libvorbisenc-aotuv2_1.3.6~b6.03-1_i386.deb[i386]
+
+|*libvorbisfile-aotuv3*
+|https://kogiku.github.io/debian-repo/pool/main/libv/libvorbis-aotuv/libvorbisfile-aotuv3_1.3.6~b6.03-1_amd64.deb[amd64],
+https://kogiku.github.io/debian-repo/pool/main/libv/libvorbis-aotuv/libvorbisfile-aotuv3_1.3.6~b6.03-1_i386.deb[i386]
+
+|*nauz-file-detector*
+|https://kogiku.github.io/debian-repo/pool/main/n/nauz-file-detector/nauz-file-detector_0.04-2_amd64.deb[amd64]
+|from https://github.com/horsicq/Nauz-File-Detector
+
+|*ncnn*
+|https://kogiku.github.io/debian-repo/pool/main/n/ncnn/ncnn_20210124-1_amd64.deb[amd64]
+|from https://github.com/Tencent/ncnn
+
+|*patchmatrix*
+|https://kogiku.github.io/debian-repo/pool/main/p/patchmatrix/patchmatrix_0.22.0-1_amd64.deb[amd64]
+|from https://github.com/OpenMusicKontrollers/patchmatrix
+
+|*realsr-ncnn-vulkan*
+|https://kogiku.github.io/debian-repo/pool/main/r/realsr-ncnn-vulkan/realsr-ncnn-vulkan_20200818-1_amd64.deb[amd64]
+|from https://github.com/nihui/realsr-ncnn-vulkan
+
+|*sc-controller*
+|https://kogiku.github.io/debian-repo/pool/main/s/sc-controller/sc-controller_0.4.8.2-1_amd64.deb[amd64]
+|from https://github.com/Ryochan7/sc-controller
+
+|*sdlpal*
+|https://kogiku.github.io/debian-repo/pool/main/s/sdlpal/sdlpal_2.0.2017.1114+git20201201-2_amd64.deb[amd64]
+|from https://github.com/sdlpal/sdlpal
+
+|*solarc-theme*
+|https://kogiku.github.io/debian-repo/pool/main/s/solarc-theme/solarc-theme_2.0.0+git20201115-1_all.deb[all]
+|from https://github.com/schemar/solarc-theme
+
+|*spek-alternative*
+|https://kogiku.github.io/debian-repo/pool/main/s/spek-alternative/spek-alternative_0.8.2.3-3_amd64.deb[amd64]
+|from https://github.com/withmorten/spek-alternative
+
+|*srmd-ncnn-vulkan*
+|https://kogiku.github.io/debian-repo/pool/main/s/srmd-ncnn-vulkan/srmd-ncnn-vulkan_20200818-1_amd64.deb[amd64]
+|from https://github.com/nihui/srmd-ncnn-vulkan
+
+|*ucon64*
+|https://kogiku.github.io/debian-repo/pool/main/u/ucon64/ucon64_2.2.1-3_amd64.deb[amd64]
+|from https://ucon64.sourceforge.io
+
+|*waifu2x-ncnn-vulkan*
+|https://kogiku.github.io/debian-repo/pool/main/w/waifu2x-ncnn-vulkan/waifu2x-ncnn-vulkan_20210102-1_amd64.deb[amd64]
+|from https://github.com/nihui/waifu2x-ncnn-vulkan
+
+|*xelfviewer*
+|https://kogiku.github.io/debian-repo/pool/main/x/xelfviewer/xelfviewer_0.01-2_amd64.deb[amd64]
+|from https://github.com/horsicq/XELFViewer
+
+|====
