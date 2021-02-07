@@ -193,6 +193,32 @@ Description: high-level API for Vorbis General Audio Compression Codec
  .
  This package replaces the libvorbisfile3 package.
 
+Package: python3-flac2all
+Source: flac2all
+Version: 5.1+test.v5.6-1
+Architecture: all
+Maintainer: Kogiku <10516420+Kogiku@users.noreply.github.com>
+Installed-Size: 114
+Depends: flac, python3-zmq, python3:any
+Recommends: vorbis-tools
+Suggests: aac-enc, ffmpeg, lame, opus-tools
+Homepage: https://github.com/ZivaVatra/flac2all
+Priority: optional
+Section: python
+Filename: pool/main/f/flac2all/python3-flac2all_5.1+test.v5.6-1_all.deb
+Size: 34092
+SHA256: deaee1fdd40aaf2212dcedfd22f2f7149fe4532870aae68c001184e8ac10affb
+SHA1: dc3158fd127c82a0e8a16169737307450d2a428b
+MD5sum: efc9c7c060c8f58f1ea83b95ecd98773
+Description: multi-process batch flac converter
+ flac2all started in 2003 as a simple flac to ogg vorbis script (written in
+ bash), it has grown into a python based, clustered parallel processing program
+ that will convert your collection of FLAC files into various other formats
+ (70+ formats if you meet all dependencies), complete with any tags that the
+ source file had. Designed to be extended with new formats easily as time goes
+ on, it is a utility for people with with large FLAC collections who also want
+ a way to convert multiple files in parallel.
+
 Package: solarc-theme
 Version: 2.0.0+git20201115-1
 Architecture: all

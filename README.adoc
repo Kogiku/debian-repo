@@ -71,6 +71,10 @@ https://kogiku.github.io/debian-repo/pool/main/libv/libvorbis-aotuv/libvorbisfil
 |https://kogiku.github.io/debian-repo/pool/main/p/patchmatrix/patchmatrix_0.22.0-1_amd64.deb[amd64]
 |from https://github.com/OpenMusicKontrollers/patchmatrix
 
+|*python3-flac2all*
+|https://kogiku.github.io/debian-repo/pool/main/p/flac2all/python3-flac2all_5.1+test.v5.6-1_all.deb[all]
+|from https://github.com/ZivaVatra/flac2all
+
 |*realsr-ncnn-vulkan*
 |https://kogiku.github.io/debian-repo/pool/main/r/realsr-ncnn-vulkan/realsr-ncnn-vulkan_20200818-1_amd64.deb[amd64]
 |from https://github.com/nihui/realsr-ncnn-vulkan
