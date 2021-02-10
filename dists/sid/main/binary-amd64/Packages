@@ -373,19 +373,19 @@ Description: multi-process batch flac converter
  a way to convert multiple files in parallel.
 
 Package: realsr-ncnn-vulkan
-Version: 20200818-1
+Version: 20210210-1
 Architecture: amd64
 Maintainer: Kogiku <10516420+Kogiku@users.noreply.github.com>
-Installed-Size: 76447
+Installed-Size: 77260
 Depends: libc6 (>= 2.29), libgcc-s1 (>= 3.3.1), libgomp1 (>= 4.9), libstdc++6 (>= 9), libvulkan1 (>= 1.2.131.2), libwebp6 (>= 0.5.1)
 Homepage: https://github.com/nihui/realsr-ncnn-vulkan
 Priority: optional
 Section: graphics
-Filename: pool/main/r/realsr-ncnn-vulkan/realsr-ncnn-vulkan_20200818-1_amd64.deb
-Size: 62493160
-SHA256: d2709e947cf81d3fccc342a118d765cd486c8ae0a7cc3f292233beb7286da0e3
-SHA1: a81a4d48a55281419cb952e36968851352ea9347
-MD5sum: 120b05a8cc6565a58e356864b435827c
+Filename: pool/main/r/realsr-ncnn-vulkan/realsr-ncnn-vulkan_20210210-1_amd64.deb
+Size: 62585468
+SHA256: 5d7750efbb016121df395c3aeac4056017824b2c35587924c9930a94424bf61b
+SHA1: 2a81d682344ac15952a62e705a311964519c355d
+MD5sum: 1495201439996611225b36b604331141
 Description: RealSR super resolution implemented with ncnn library
  realsr-ncnn-vulkan is a ncnn implementation of Real-World Super-Resolution via
  Kernel Estimation and Noise Injection super resolution.
