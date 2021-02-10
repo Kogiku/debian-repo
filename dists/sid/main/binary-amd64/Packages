@@ -492,19 +492,19 @@ Description: acoustic spectrum analyser
   * Adjustable spectral density range
 
 Package: srmd-ncnn-vulkan
-Version: 20200818-1
+Version: 20210210-1
 Architecture: amd64
 Maintainer: Kogiku <10516420+Kogiku@users.noreply.github.com>
-Installed-Size: 28930
+Installed-Size: 29739
 Depends: libc6 (>= 2.29), libgcc-s1 (>= 3.3.1), libgomp1 (>= 4.9), libstdc++6 (>= 9), libvulkan1 (>= 1.2.131.2), libwebp6 (>= 0.5.1)
 Homepage: https://github.com/nihui/srmd-ncnn-vulkan
 Priority: optional
 Section: graphics
-Filename: pool/main/s/srmd-ncnn-vulkan/srmd-ncnn-vulkan_20200818-1_amd64.deb
-Size: 19253808
-SHA256: ffe066d9ed2e38d9aed4fa2392294cb25c1deda20e4c259dc0f9bacf95f16ad7
-SHA1: fcaea10eecaae3a6b69874913faafcbdbab2ed54
-MD5sum: 40ba85243beb6df8d9403830f81a4f06
+Filename: pool/main/s/srmd-ncnn-vulkan/srmd-ncnn-vulkan_20210210-1_amd64.deb
+Size: 19345412
+SHA256: a591062d083c7e599f01011b729042f249bcc8466ef00f4e2e20a94f8a4df4fd
+SHA1: ac3f9f6f74a405452f28da94cbf6c0b36cb42d58
+MD5sum: 731f4889a43024d6ccecdb8f38b8f4aa
 Description: SRMD super resolution implemented with ncnn library
  srmd-ncnn-vulkan is a ncnn implementation of SRMD super resolution.
  .
