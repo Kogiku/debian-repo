@@ -31,7 +31,7 @@ apt update
 |from https://github.com/chungy/cmdpack
 
 |*exhale*
-|https://kogiku.github.io/debian-repo/pool/main/e/exhale/exhale_1.1.2-1_amd64.deb[amd64]
+|https://kogiku.github.io/debian-repo/pool/main/e/exhale/exhale_1.1.3-1_amd64.deb[amd64]
 |from https://gitlab.com/ecodis/exhale
 
 |*gnome-icon-theme-s*
