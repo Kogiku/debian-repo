@@ -393,25 +393,36 @@ Description: RealSR super resolution implemented with ncnn library
  Uses ncnn project as the universal neural network inference framework.
 
 Package: sc-controller
-Version: 0.4.8.2-1
+Version: 0.4.8.4-1
 Architecture: amd64
 Maintainer: Kogiku <10516420+Kogiku@users.noreply.github.com>
-Installed-Size: 6132
-Depends: python3 (<< 3.10), python3 (>= 3.8~), python3:any, libc6 (>= 2.17), zlib1g (>= 1:1.1.4), python3-gi, libgtk-3-0, gir1.2-gtk-3.0, gir1.2-glib-2.0, python3-gi-cairo, gir1.2-rsvg-2.0, linux-libc-dev, xinput, python3-pylibacl
+Installed-Size: 6078
+Depends: python3 (<< 3.10), python3 (>= 3.9~), python3:any, libc6 (>= 2.17), zlib1g (>= 1:1.1.4), python3-gi, libgtk-3-0, gir1.2-gtk-3.0, gir1.2-glib-2.0, python3-gi-cairo, gir1.2-rsvg-2.0, linux-libc-dev, xinput, python3-pylibacl
 Recommends: python3-evdev
 Suggests: steam-devices
 Homepage: https://github.com/Ryochan7/sc-controller
 Priority: optional
 Section: utils
-Filename: pool/main/s/sc-controller/sc-controller_0.4.8.2-1_amd64.deb
-Size: 1625884
-SHA256: 17b8a8e6a3de3ef2f01bb2d7250b36d59340b9dc23ac86aa0f6f3ae626a9047f
-SHA1: ea6c74ed1c1b1563b97b62c3bb2eb5c510febbb2
-MD5sum: 637634bb01deefec95b82a6203d3e603
+Filename: pool/main/s/sc-controller/sc-controller_0.4.8.4-1_amd64.deb
+Size: 1628452
+SHA256: 04fcb918619740c1d0bda9bc88428e57e98bb7bf3143439ce41c03a1991afeff
+SHA1: c16669eaed8a2fc7f6052e600fecab9b0b87d5b2
+MD5sum: c8fcac7e2ebd1e252bfb0b1a63a3464a
 Description: user-mode driver and GTK3 based GUI for Steam Controller
- Application allowing to setup, configure and use Steam Controller
- without using Steam client.
-Python-Version: 3.8, 3.9
+ SC Controller is a user-mode driver, mapper and GTK3 based GUI for Steam
+ Controller, DS4 and similar controllers.
+ .
+ Features:
+  * Allows to setup, configure and use Steam Controller(s) without ever
+    launching Steam
+  * Supports profiles switchable in GUI or with controller button
+  * Stick, Pads and Gyroscope input
+  * Haptic Feedback and in-game Rumble support
+  * OSD, Menus, On-Screen Keyboard for desktop and in games.
+  * Automatic profile switching based on active window.
+  * Macros, button cycling, rapid fire, modeshift, mouse regions...
+  * Emulates Xbox360 controller, mouse, trackball and keyboard.
+Python-Version: 3.9
 
 Package: sdlpal
 Version: 2.0.2021.0214-1
