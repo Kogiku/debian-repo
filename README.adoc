@@ -43,21 +43,21 @@ apt update
 |from https://github.com/teragonaudio/gogo-no-coda
 
 |*libvorbis-aotuv0*
-|https://kogiku.github.io/debian-repo/pool/main/libv/libvorbis-aotuv/libvorbis-aotuv0_1.3.6~b6.03-1_amd64.deb[amd64],
-https://kogiku.github.io/debian-repo/pool/main/libv/libvorbis-aotuv/libvorbis-aotuv0_1.3.6~b6.03-1_i386.deb[i386]
+|https://kogiku.github.io/debian-repo/pool/main/libv/libvorbis-aotuv/libvorbis-aotuv0_1.3.7~b6.03-1_amd64.deb[amd64],
+https://kogiku.github.io/debian-repo/pool/main/libv/libvorbis-aotuv/libvorbis-aotuv0_1.3.7~b6.03-1_i386.deb[i386]
 .4+.^|from https://ao-yumi.github.io/aotuv_web
 
 |*libvorbis-aotuv-dev*
-|https://kogiku.github.io/debian-repo/pool/main/libv/libvorbis-aotuv/libvorbis-aotuv-dev_1.3.6~b6.03-1_amd64.deb[amd64],
-https://kogiku.github.io/debian-repo/pool/main/libv/libvorbis-aotuv/libvorbis-aotuv-dev_1.3.6~b6.03-1_i386.deb[i386]
+|https://kogiku.github.io/debian-repo/pool/main/libv/libvorbis-aotuv/libvorbis-aotuv-dev_1.3.7~b6.03-1_amd64.deb[amd64],
+https://kogiku.github.io/debian-repo/pool/main/libv/libvorbis-aotuv/libvorbis-aotuv-dev_1.3.7~b6.03-1_i386.deb[i386]
 
 |*libvorbisenc-aotuv2*
-|https://kogiku.github.io/debian-repo/pool/main/libv/libvorbis-aotuv/libvorbisenc-aotuv2_1.3.6~b6.03-1_amd64.deb[amd64],
-https://kogiku.github.io/debian-repo/pool/main/libv/libvorbis-aotuv/libvorbisenc-aotuv2_1.3.6~b6.03-1_i386.deb[i386]
+|https://kogiku.github.io/debian-repo/pool/main/libv/libvorbis-aotuv/libvorbisenc-aotuv2_1.3.7~b6.03-1_amd64.deb[amd64],
+https://kogiku.github.io/debian-repo/pool/main/libv/libvorbis-aotuv/libvorbisenc-aotuv2_1.3.7~b6.03-1_i386.deb[i386]
 
 |*libvorbisfile-aotuv3*
-|https://kogiku.github.io/debian-repo/pool/main/libv/libvorbis-aotuv/libvorbisfile-aotuv3_1.3.6~b6.03-1_amd64.deb[amd64],
-https://kogiku.github.io/debian-repo/pool/main/libv/libvorbis-aotuv/libvorbisfile-aotuv3_1.3.6~b6.03-1_i386.deb[i386]
+|https://kogiku.github.io/debian-repo/pool/main/libv/libvorbis-aotuv/libvorbisfile-aotuv3_1.3.7~b6.03-1_amd64.deb[amd64],
+https://kogiku.github.io/debian-repo/pool/main/libv/libvorbis-aotuv/libvorbisfile-aotuv3_1.3.7~b6.03-1_i386.deb[i386]
 
 |*nauz-file-detector*
 |https://kogiku.github.io/debian-repo/pool/main/n/nauz-file-detector/nauz-file-detector_0.05-1_amd64.deb[amd64]
