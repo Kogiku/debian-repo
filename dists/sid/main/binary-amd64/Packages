@@ -589,20 +589,3 @@ Description: waifu2x converter ncnn version
  .
  Uses ncnn project as the universal neural network inference framework.
 
-Package: xelfviewer
-Version: 0.02-1
-Architecture: amd64
-Maintainer: Kogiku <10516420+Kogiku@users.noreply.github.com>
-Installed-Size: 5749
-Depends: libc6 (>= 2.29), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5opengl5 (>= 5.0.2), libqt5svg5 (>= 5.6.0~beta), libqt5widgets5 (>= 5.15.1), libstdc++6 (>= 5.2), libicu67, libqt5dbus5, libqt5gui5
-Homepage: http://ntinfo.biz/
-Priority: optional
-Section: utils
-Filename: pool/main/x/xelfviewer/xelfviewer_0.02-1_amd64.deb
-Size: 1424880
-SHA256: 0d790de80ed0c4fe8a8385847d37ce3d017c001c8247e7128010fb50c77aacd4
-SHA1: bce7778820c1dad21cd6b01ae29141457fc6bc32
-MD5sum: 1d076a0e4943a52a5dd576b8e6e652b6
-Description: ELF file viewer/editor
- XELFViewer is an ELF file viewer/editor.
-
