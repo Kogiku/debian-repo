@@ -68,7 +68,7 @@ https://kogiku.github.io/debian-repo/pool/main/libv/libvorbis-aotuv/libvorbisfil
 |from https://github.com/Tencent/ncnn
 
 |*patchmatrix*
-|https://kogiku.github.io/debian-repo/pool/main/p/patchmatrix/patchmatrix_0.22.0-1_amd64.deb[amd64]
+|https://kogiku.github.io/debian-repo/pool/main/p/patchmatrix/patchmatrix_0.24.0-1_amd64.deb[amd64]
 |from https://github.com/OpenMusicKontrollers/patchmatrix
 
 |*python3-flac2all*
