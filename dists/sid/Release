@@ -1,37 +1,37 @@
 Origin: Kogiku
 Label: Kogiku GitHub
 Codename: sid
-Date: Fri, 30 Apr 2021 18:43:55 UTC
+Date: Wed, 12 May 2021 08:55:46 UTC
 Architectures: amd64 i386
 Components: main
 Description: Various packages hosted on Kogiku's GitHub repository.
 MD5Sum:
- ddef110d4967129046e5cd9aa5e59234 24929 main/binary-amd64/Packages
- 84eff773f76b0a50639c305fd6ac096d 9170 main/binary-amd64/Packages.gz
+ 82eab7c5238aadf2e50758d5d473e1a0 24929 main/binary-amd64/Packages
+ 4becb9093e2e173d88cdb1a74eeffe2f 9173 main/binary-amd64/Packages.gz
  c179c335ff2a0531a5353905b6c0124d 140 main/binary-amd64/Release
  a4990ada573b8f61e146f086d5ce3c0f 9618 main/binary-i386/Packages
  d846cdac09a228e20d6e24c19aa80d56 3284 main/binary-i386/Packages.gz
  40396fd0c8376c3de1280f55d3395917 139 main/binary-i386/Release
- c2a7c9f591f5e9f8f28645abf400c97c 26641 main/source/Sources
- cf70b04ad326df9399bffba539011ba8 8299 main/source/Sources.gz
+ f59ac7ab33070eee0f4e942e52861a4d 26641 main/source/Sources
+ 887349d16d22ba591163b7b4a86d03a5 8301 main/source/Sources.gz
  127bd78dbc0988e2382511b31a0d6dc9 141 main/source/Release
 SHA1:
- 3d6fb1fafdce1f858abefdf73db0d21d0bdc77ee 24929 main/binary-amd64/Packages
- 733fd931219cb9535e4bda739b8b1f10354ff2c9 9170 main/binary-amd64/Packages.gz
+ aebd87f3dc483fc0a7cc3b709c5f0d0be72c0ee0 24929 main/binary-amd64/Packages
+ ef280e62e3aa412ff7abd03a6fb1554f090bb908 9173 main/binary-amd64/Packages.gz
  b06dfd8f46c3d2bccfc5749ec95d84160d4ae0bd 140 main/binary-amd64/Release
  efe5fe46e01d87477be3e5099a51548c14cee4ad 9618 main/binary-i386/Packages
  413da7e41260bd4da9f679789123d50475e00acb 3284 main/binary-i386/Packages.gz
  e69a0045adac299f4eb71d9c099d0f7190ece6a0 139 main/binary-i386/Release
- 1244d2c996d59f99ea05409abfd68b68807e0cd3 26641 main/source/Sources
- 7e7ea00107847a830809aa269a92ceebc93206ab 8299 main/source/Sources.gz
+ c62a30f2f7d340ff0a053b431873041668be015f 26641 main/source/Sources
+ 2c592c5b6f5e03626ed64fe908f0e01aa1fbcb52 8301 main/source/Sources.gz
  03747911a22338537710d591011eb3231b7f9a7b 141 main/source/Release
 SHA256:
- 75b0cf5c9a94b0187bb4befca280939106dce44c81843d496e49aa05ae47aedd 24929 main/binary-amd64/Packages
- fbd7773d58e0e8887fef7ecaee275cd980f483249931850e7cbdce099298177b 9170 main/binary-amd64/Packages.gz
+ 705c61611084ce75eb4dc86ba4f07243a2c47fc9d16b76dfde66b21baf7709dc 24929 main/binary-amd64/Packages
+ 66d04ee5e5d8efac84c263c2acf7a3ab937558db9be2783bdbbdb056e3aaf6a1 9173 main/binary-amd64/Packages.gz
  e3a6c0c4fdf6c967095947852828c4347d8da34dd80ee1451f7658b7ae93de4d 140 main/binary-amd64/Release
  d12e19b36699521d51924defd78207acf01acfc4948905c35ba85b1a9241181d 9618 main/binary-i386/Packages
  2047546078c6b5fbc9a761f5902575d7eda512fc6ebbf080dbadbed84e1a9659 3284 main/binary-i386/Packages.gz
  e4fa478656d17087fc705e948d3c822b56b267ef45800de85647c118ac46c876 139 main/binary-i386/Release
- 9d35f675b3de5ef670095f50a6e8e8dd06d3c88bad6f61623559423213f46b4b 26641 main/source/Sources
- d8f342513fc71da5fe236cec04b972d2a65df7b2d56bab75ce02c438808d78d3 8299 main/source/Sources.gz
+ 87f6e66748959b60b7388dadae86b7865b81400abf35a0143459cba57cce01b1 26641 main/source/Sources
+ a15a6fa5d3693e29878883fe166830acd5b2e50efd31545cfa0a0a77ac9f7d7f 8301 main/source/Sources.gz
  897123c54b699f12facb9b7acf8de78be7420fa9c7c53ae90d8c7165471209e2 141 main/source/Release
