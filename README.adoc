@@ -104,7 +104,7 @@ https://kogiku.github.io/debian-repo/pool/main/libv/libvorbis-aotuv/libvorbisfil
 |from https://ucon64.sourceforge.io
 
 |*waifu2x-ncnn-vulkan*
-|https://kogiku.github.io/debian-repo/pool/main/w/waifu2x-ncnn-vulkan/waifu2x-ncnn-vulkan_20210210-1_amd64.deb[amd64]
+|https://kogiku.github.io/debian-repo/pool/main/w/waifu2x-ncnn-vulkan/waifu2x-ncnn-vulkan_20210521-1_amd64.deb[amd64]
 |from https://github.com/nihui/waifu2x-ncnn-vulkan
 
 |====
