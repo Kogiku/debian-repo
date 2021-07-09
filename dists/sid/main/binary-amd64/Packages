@@ -393,21 +393,21 @@ Description: RealSR super resolution implemented with ncnn library
  Uses ncnn project as the universal neural network inference framework.
 
 Package: sc-controller
-Version: 0.4.8.4-1
+Version: 0.4.8.5-1
 Architecture: amd64
 Maintainer: Kogiku <10516420+Kogiku@users.noreply.github.com>
-Installed-Size: 6078
+Installed-Size: 6084
 Depends: python3 (<< 3.10), python3 (>= 3.9~), python3:any, libc6 (>= 2.17), zlib1g (>= 1:1.1.4), python3-gi, libgtk-3-0, gir1.2-gtk-3.0, gir1.2-glib-2.0, python3-gi-cairo, gir1.2-rsvg-2.0, linux-libc-dev, xinput, python3-pylibacl
 Recommends: python3-evdev
 Suggests: steam-devices
 Homepage: https://github.com/Ryochan7/sc-controller
 Priority: optional
 Section: utils
-Filename: pool/main/s/sc-controller/sc-controller_0.4.8.4-1_amd64.deb
-Size: 1628452
-SHA256: 04fcb918619740c1d0bda9bc88428e57e98bb7bf3143439ce41c03a1991afeff
-SHA1: c16669eaed8a2fc7f6052e600fecab9b0b87d5b2
-MD5sum: c8fcac7e2ebd1e252bfb0b1a63a3464a
+Filename: pool/main/s/sc-controller/sc-controller_0.4.8.5-1_amd64.deb
+Size: 1629204
+SHA256: b2fa8135fab98edc4f19ad82cbcdde90b84784bebef13f9a70b82e81c6a17796
+SHA1: 24ceda6ffb586831450a2f702cf690e011e97f06
+MD5sum: fa25ba2bbd1b5da650f72172dc6f9f4c
 Description: user-mode driver and GTK3 based GUI for Steam Controller
  SC Controller is a user-mode driver, mapper and GTK3 based GUI for Steam
  Controller, DS4 and similar controllers.
