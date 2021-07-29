@@ -193,6 +193,24 @@ Description: high-level API for Vorbis General Audio Compression Codec
  .
  This package replaces the libvorbisfile3 package.
 
+Package: motif-solaris-metacity-theme
+Version: 20210725-1
+Architecture: all
+Maintainer: Kogiku <10516420+Kogiku@users.noreply.github.com>
+Installed-Size: 50
+Suggests: marco, metacity
+Homepage: https://github.com/Kogiku/motif-solaris-metacity-theme
+Priority: optional
+Section: misc
+Filename: pool/main/m/motif-solaris-metacity-theme/motif-solaris-metacity-theme_20210725-1_all.deb
+Size: 4908
+SHA256: fbacebebf5c33bf22bb193c4729529abd56896bb39ae813db643d99188a9ffbc
+SHA1: 68e7a7aeecf04330e6e24ef018d893fc8775e234
+MD5sum: 15865607aef4d895b55a5a9104440184
+Description: Motif Metacity theme set to the color used in the CDE Solaris theme
+ Motif Metacity/Marco theme set to the purplish color used in the CDE Solaris
+ theme.
+
 Package: python3-flac2all
 Source: flac2all
 Version: 5.1+test.v5.6-1

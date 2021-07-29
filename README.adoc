@@ -59,6 +59,10 @@ https://kogiku.github.io/debian-repo/pool/main/libv/libvorbis-aotuv/libvorbisenc
 |https://kogiku.github.io/debian-repo/pool/main/libv/libvorbis-aotuv/libvorbisfile-aotuv3_1.3.7~b6.03-1_amd64.deb[amd64],
 https://kogiku.github.io/debian-repo/pool/main/libv/libvorbis-aotuv/libvorbisfile-aotuv3_1.3.7~b6.03-1_i386.deb[i386]
 
+|*motif-solaris-metacity-theme*
+|https://kogiku.github.io/debian-repo/pool/main/m/motif-solaris-metacity-theme/motif-solaris-metacity-theme_20210725-1_all.deb[all]
+|from https://github.com/Kogiku/motif-solaris-metacity-theme
+
 |*nauz-file-detector*
 |https://kogiku.github.io/debian-repo/pool/main/n/nauz-file-detector/nauz-file-detector_0.05-1_amd64.deb[amd64]
 |from https://github.com/horsicq/Nauz-File-Detector
