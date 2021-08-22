@@ -294,19 +294,20 @@ Description: Motif Metacity theme set to the color used in the CDE Solaris theme
  theme.
 
 Package: nauz-file-detector
-Version: 0.05-1
+Version: 0.06-1
 Architecture: amd64
 Maintainer: Kogiku <10516420+Kogiku@users.noreply.github.com>
-Installed-Size: 3796
-Depends: libc6 (>= 2.29), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.0.2) | libqt5gui5-gles (>= 5.0.2), libqt5widgets5 (>= 5.2.0~alpha1), libstdc++6 (>= 5), libicu67, libqt5dbus5, libqt5gui5
+Installed-Size: 4301
+Depends: libc6 (>= 2.29), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.0.2) | libqt5gui5-gles (>= 5.0.2), libqt5widgets5 (>= 5.2.0~alpha1), libstdc++6 (>= 4.3), libicu67, libqt5dbus5, libqt5gui5
+Conflicts: nauzfiledetector, nfd
 Homepage: http://ntinfo.biz/
 Priority: optional
 Section: utils
-Filename: pool/main/n/nauz-file-detector/nauz-file-detector_0.05-1_amd64.deb
-Size: 751220
-SHA256: 8e93d34de44cf0de2acc1f6a3fabc21305e39dbbeead256bab7ddc4e2879e181
-SHA1: 2fc38ca10d49e1595a42e8cb62c2efe034dd9c7c
-MD5sum: 202bbe090dbad278d3e1487e29fcd30d
+Filename: pool/main/n/nauz-file-detector/nauz-file-detector_0.06-1_amd64.deb
+Size: 823464
+SHA256: dc67eb4d24ab0b96e8e839b5460b01d757f8e6cb294b2277927038ffbfd4442d
+SHA1: 21adac9880f8655d47dffe3b25fe9db75210f10d
+MD5sum: 57f2380f9d9888c642f5c95aec6381d7
 Description: linker/compiler/packer identifier utility
  Nauz File Detector (or nfd) is a linker/compiler/packer identifier utility.
  .
