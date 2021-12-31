@@ -339,19 +339,19 @@ Description: high-performance neural network inference framework
  such as QQ, Qzone, WeChat, Pitu and so on.
 
 Package: patchmatrix
-Version: 2:0.26.0-1
+Version: 2:0.26.0-2
 Architecture: amd64
 Maintainer: Kogiku <10516420+Kogiku@users.noreply.github.com>
-Installed-Size: 587
-Depends: libc6 (>= 2.29), libgl1, libglew2.1 (>= 1.12.0), libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125, libx11-6, fonts-croscore
+Installed-Size: 578
+Depends: libc6 (>= 2.32), libgl1, libglew2.2 (>= 2.2.0-4), libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125, libx11-6, fonts-croscore
 Homepage: https://git.open-music-kontrollers.ch/
 Priority: optional
 Section: sound
-Filename: pool/main/p/patchmatrix/patchmatrix_0.26.0-1_amd64.deb
-Size: 219056
-SHA256: 7d05970de26e14aff0db5e9c07d46bf1d03edc6bb026c0cf15ed8fcdf9bdd326
-SHA1: 0185be16a516862122e51feb384e721537667892
-MD5sum: f7d3bf51d000aa30e384a2dc8fb45875
+Filename: pool/main/p/patchmatrix/patchmatrix_0.26.0-2_amd64.deb
+Size: 218584
+SHA256: 58131edc48c9cad00f3c203c28b8540559046a340cd74c1825ef15c29ba9f3b7
+SHA1: 138beb6571bd421859b7e8da1c451dfb9b5d0df7
+MD5sum: 50a1f04829840814685dea0bc37aa951
 Description: JACK patchbay in flow-matrix-style
  PatchMatrix shows JACK clients and their input and output ports in
  flow-matrix-style.
