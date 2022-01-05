@@ -4,8 +4,8 @@ Use with caution at your own risk!*
 . Download packages containing the apt source file and public GPG key:
 +
 ----
-wget https://kogiku.github.io/debian-repo/pool/main/k/kogiku-archive-keyring/kogiku-apt-source_2020.1-1_all.deb
-wget https://kogiku.github.io/debian-repo/pool/main/k/kogiku-archive-keyring/kogiku-archive-keyring_2020.1-1_all.deb
+wget https://kogiku.github.io/debian-repo/pool/main/k/kogiku-archive-keyring/kogiku-apt-source_2022.1-1_all.deb
+wget https://kogiku.github.io/debian-repo/pool/main/k/kogiku-archive-keyring/kogiku-archive-keyring_2022.1-1_all.deb
 ----
 
 . Then (as root) install the downloaded packages and update:

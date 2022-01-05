@@ -50,7 +50,7 @@ Description: fast MP3 encoder based on LAME
 
 Package: kogiku-apt-source
 Source: kogiku-archive-keyring
-Version: 2020.1-1
+Version: 2022.1-1
 Architecture: all
 Maintainer: Kogiku <10516420+Kogiku@users.noreply.github.com>
 Installed-Size: 14
@@ -58,29 +58,29 @@ Depends: kogiku-archive-keyring
 Homepage: https://github.com/Kogiku/debian-repo
 Priority: optional
 Section: misc
-Filename: pool/main/k/kogiku-archive-keyring/kogiku-apt-source_2020.1-1_all.deb
-Size: 2052
-SHA256: 6ae9c7073786174dd04f6b1a91dfddd965de99b3309a8f83f9e0468559a7db07
-SHA1: 82a79f6a9cdfbcfe63e30309973e12da32b6a542
-MD5sum: 21c8e953fea4981fae19fb3b8a4c8ae7
+Filename: pool/main/k/kogiku-archive-keyring/kogiku-apt-source_2022.1-1_all.deb
+Size: 2160
+SHA256: 1b39b95707dfa035cc24dc059a7397941251afaaec73f81eb1bdabb7c92f9405
+SHA1: 5c3b067412cd163c2599b7f2d170bcb87479183c
+MD5sum: 48b0a99cdb1b1a90fd0769ae8d8f84c7
 Description: source file for Kogiku's GitHub repository
  This package contains the source file for Kogiku's GitHub repository.
  .
  /etc/apt/sources.list.d/kogiku.sources
 
 Package: kogiku-archive-keyring
-Version: 2020.1-1
+Version: 2022.1-1
 Architecture: all
 Maintainer: Kogiku <10516420+Kogiku@users.noreply.github.com>
 Installed-Size: 12
 Homepage: https://github.com/Kogiku/debian-repo
 Priority: optional
 Section: misc
-Filename: pool/main/k/kogiku-archive-keyring/kogiku-archive-keyring_2020.1-1_all.deb
-Size: 3604
-SHA256: f05f0fc4a96e44081d0b3a370e25882038a31ceaeaeec287793421368e055694
-SHA1: 4574b025c8dea0e12a8211afef8dd2c5ef0ac253
-MD5sum: 54fa76e59ce49b7b5f5777aeb07791fb
+Filename: pool/main/k/kogiku-archive-keyring/kogiku-archive-keyring_2022.1-1_all.deb
+Size: 3720
+SHA256: 96ea0ae3e40beea17d14965f8898b4c8070516f46d9d1b9d28025f00b4a9607d
+SHA1: 575f7f6c03ab2db48a15732279a46561a2a4bb0f
+MD5sum: 77a0a84bc9d2e07b893034cc56a22879
 Description: GnuPG archive key for Kogiku's GitHub repository
  This package contain the GnuPG archive key for Kogiku's GitHub repository.
  .
