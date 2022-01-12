@@ -79,6 +79,10 @@ https://kogiku.github.io/debian-repo/pool/main/libv/libvorbis-aotuv/libvorbisfil
 |https://kogiku.github.io/debian-repo/pool/main/f/flac2all/python3-flac2all_5.1+test.v5.6-1_all.deb[all]
 |from https://github.com/ZivaVatra/flac2all
 
+|*python3-rivalcfg*
+|https://kogiku.github.io/debian-repo/pool/main/r/rivalcfg/python3-rivalcfg_4.5.0-1_all.deb[all]
+|from https://github.com/flozz/rivalcfg
+
 |*realsr-ncnn-vulkan*
 |https://kogiku.github.io/debian-repo/pool/main/r/realsr-ncnn-vulkan/realsr-ncnn-vulkan_20210210-1_amd64.deb[amd64]
 |from https://github.com/nihui/realsr-ncnn-vulkan
