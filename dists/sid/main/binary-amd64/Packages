@@ -633,3 +633,23 @@ Description: waifu2x converter ncnn version
  .
  Uses ncnn project as the universal neural network inference framework.
 
+Package: webp-pixbuf-loader
+Version: 0.0.4-1
+Architecture: amd64
+Maintainer: Kogiku <10516420+Kogiku@users.noreply.github.com>
+Installed-Size: 46
+Depends: libc6 (>= 2.14), libgdk-pixbuf-2.0-0 (>= 2.38.1), libglib2.0-0 (>= 2.37.3), libwebp7, libwebpdemux2
+Homepage: https://github.com/aruiz/webp-pixbuf-loader/
+Priority: optional
+Section: gnome
+Filename: pool/main/w/webp-pixbuf-loader/webp-pixbuf-loader_0.0.4-1_amd64.deb
+Size: 10924
+SHA256: 3498451cfae08328033b70ec3b42227f7f7adda26ad38819539e368347a05f39
+SHA1: bc21b1f7b0dfab76b7fa245d88e39db9ff33817e
+MD5sum: 02da5691cba2c9bdc1d19914dc02171b
+Description: WebP Image format GdkPixbuf loader
+ webp-pixbuf-loader integrates libwebp library into GDK image processing
+ framework, so GDK based application can use WEBP format natively.
+ .
+ This allows GTK applications preview and load pictures in WEBP format.
+
