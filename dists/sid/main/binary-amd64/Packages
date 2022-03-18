@@ -416,6 +416,26 @@ Description: CLI tool and Python library to configure SteelSeries gaming mice
  Today this project aims to support any SteelSeries gaming mice
  (Rival, Sensei,...).
 
+Package: realcugan-ncnn-vulkan
+Version: 20220318-1
+Architecture: amd64
+Maintainer: Kogiku <10516420+Kogiku@users.noreply.github.com>
+Installed-Size: 65256
+Depends: libc6 (>= 2.33), libgcc-s1 (>= 3.0), libgomp1 (>= 4.9), libstdc++6 (>= 11), libvulkan1 (>= 1.2.131.2), libwebp7
+Homepage: https://github.com/nihui/realcugan-ncnn-vulkan
+Priority: optional
+Section: graphics
+Filename: pool/main/r/realcugan-ncnn-vulkan/realcugan-ncnn-vulkan_20220318-1_amd64.deb
+Size: 32199860
+SHA256: 2d9ecaffe92d05b48cf112d39c60b72b94bfaa58b0ceaa5f5751389480255bc3
+SHA1: f5d2d8743294f1240507be9370bfcdb6a6fa5a3a
+MD5sum: 4b18e9226dbae42f433a0f8e68cf502d
+Description: Real-CUGAN implemented with ncnn library
+ realcugan-ncnn-vulkan is a ncnn implementation of Real-CUGAN (Real Cascade
+ U-Nets for Anime Image Super Resolution).
+ .
+ Uses ncnn project as the universal neural network inference framework.
+
 Package: realsr-ncnn-vulkan
 Version: 20210210-1
 Architecture: amd64
