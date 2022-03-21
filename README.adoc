@@ -88,7 +88,7 @@ https://kogiku.github.io/debian-repo/pool/main/libv/libvorbis-aotuv/libvorbisfil
 |from https://github.com/nihui/realcugan-ncnn-vulkan
 
 |*realsr-ncnn-vulkan*
-|https://kogiku.github.io/debian-repo/pool/main/r/realsr-ncnn-vulkan/realsr-ncnn-vulkan_20210210-1_amd64.deb[amd64]
+|https://kogiku.github.io/debian-repo/pool/main/r/realsr-ncnn-vulkan/realsr-ncnn-vulkan_20210210-2_amd64.deb[amd64]
 |from https://github.com/nihui/realsr-ncnn-vulkan
 
 |*sc-controller*
