@@ -544,6 +544,35 @@ Description: flat theme with transparent elements. Based on the Arc theme
  Colours are based on the Solarized colour scheme by Ethan Schoonover:
  https://github.com/altercation/solarized
 
+Package: spek-x
+Version: 0.9.0-1
+Architecture: amd64
+Maintainer: Kogiku <10516420+Kogiku@users.noreply.github.com>
+Installed-Size: 499
+Depends: libavcodec59 (>= 7:5.0), libavformat59 (>= 7:5.0), libavutil57 (>= 7:5.0), libc6 (>= 2.14), libgcc-s1 (>= 3.0), libstdc++6 (>= 5.2), libwxbase3.0-0v5 (>= 3.0.5.1+dfsg), libwxgtk3.0-gtk3-0v5 (>= 3.0.5.1+dfsg)
+Replaces: spek, spek-alternative
+Homepage: https://github.com/MikeWang000000/spek-X
+Priority: optional
+Section: sound
+Filename: pool/main/s/spek-x/spek-x_0.9.0-1_amd64.deb
+Size: 104648
+SHA256: df3b226049c316bb34ab3385646f3dc596e85e3493bf42be64f1fd6c1bfc5bf6
+SHA1: c8af618c99e87a2851d85ffafcfe144319162f98
+MD5sum: 6bb8a3928e8888ab5b069b2f1f2087c0
+Description: acoustic spectrum analyser
+ Spek helps to analyse your audio files by showing their spectrogram.
+ It supports all popular lossy and lossless audio file formats.
+ .
+ Features:
+ .
+  * Ultra-fast signal processing, uses multiple threads to further
+    speed up the analysis
+  * Shows the codec name and the audio signal parameters
+  * Can save the spectrogram as an image file
+  * Drag-and-drop support; associates with common audio file formats
+  * Auto-fitting time, frequency and spectral density rulers
+  * Adjustable spectral density range
+
 Package: srmd-ncnn-vulkan
 Version: 20210210-2
 Architecture: amd64
