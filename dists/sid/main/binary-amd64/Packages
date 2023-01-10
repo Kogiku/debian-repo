@@ -293,27 +293,6 @@ Description: Motif Metacity theme set to the color used in the CDE Solaris theme
  Motif Metacity/Marco theme set to the purplish color used in the CDE Solaris
  theme.
 
-Package: nauz-file-detector
-Version: 0.08-1
-Architecture: amd64
-Maintainer: Kogiku <10516420+Kogiku@users.noreply.github.com>
-Installed-Size: 5660
-Depends: libc6 (>= 2.29), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.0.2) | libqt5gui5-gles (>= 5.0.2), libqt5widgets5 (>= 5.2.0~alpha1), libstdc++6 (>= 4.3), libicu67, libqt5dbus5, libqt5gui5
-Conflicts: nauzfiledetector, nfd
-Homepage: http://ntinfo.biz
-Priority: optional
-Section: utils
-Filename: pool/main/n/nauz-file-detector/nauz-file-detector_0.08-1_amd64.deb
-Size: 1105876
-SHA256: 9bc22735d91a422df7c5b819a9262db5d96824b3dfb7dc2e790af0c6320dc872
-SHA1: 0347cabdd88e66a6789d7219d218bd3435743a5f
-MD5sum: eaee018814e2438f720dacea07fb843a
-Description: linker/compiler/packer identifier utility
- Nauz File Detector (or nfd) is a linker/compiler/packer identifier utility.
- .
- * nfd - GUI version
- * nfdc - console version
-
 Package: ncnn
 Version: 20220216-1
 Architecture: amd64
