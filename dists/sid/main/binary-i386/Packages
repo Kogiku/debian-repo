@@ -262,28 +262,3 @@ Description: CLI tool and Python library to configure SteelSeries gaming mice
  Today this project aims to support any SteelSeries gaming mice
  (Rival, Sensei,...).
 
-Package: solarc-theme
-Version: 2.0.0+git20201115-1
-Architecture: all
-Maintainer: Kogiku <10516420+Kogiku@users.noreply.github.com>
-Installed-Size: 9708
-Depends: gnome-themes-extra, gtk2-engines-murrine
-Homepage: https://github.com/schemar/solarc-theme
-Priority: optional
-Section: misc
-Filename: pool/main/s/solarc-theme/solarc-theme_2.0.0+git20201115-1_all.deb
-Size: 269948
-SHA256: a5ba396b0b78132aeeb82016db252a8e010ba1198dffcddae5b6d0ef625dab1a
-SHA1: 18c6e35a4c804cbee88eff28c4c1b7c6e48444e7
-MD5sum: 4036084eab92955c55a31ead571e6c09
-Description: flat theme with transparent elements. Based on the Arc theme
- SolArc is a flat theme with transparent elements for GTK 3, GTK 2 and GNOME
- Shell which supports GTK 3 and GTK 2 based desktop environments like GNOME,
- Unity, Pantheon, Xfce, MATE, Cinnamon (>=3.4), Budgie Desktop (10.4 for
- GTK+3.22) etc.
- .
- SolArc is a fork of the Arc theme: https://github.com/arc-design/arc-theme
- .
- Colours are based on the Solarized colour scheme by Ethan Schoonover:
- https://github.com/altercation/solarized
-
