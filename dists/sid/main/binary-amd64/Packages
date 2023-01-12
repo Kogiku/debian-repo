@@ -372,19 +372,19 @@ Description: multi-process batch flac converter
 
 Package: python3-rivalcfg
 Source: rivalcfg
-Version: 4.5.0-1
+Version: 4.8.0-1
 Architecture: all
 Maintainer: Kogiku <10516420+Kogiku@users.noreply.github.com>
-Installed-Size: 271
+Installed-Size: 299
 Depends: python3-hid, python3-pkg-resources, python3:any
 Homepage: https://github.com/flozz/rivalcfg
 Priority: optional
 Section: python
-Filename: pool/main/r/rivalcfg/python3-rivalcfg_4.5.0-1_all.deb
-Size: 36352
-SHA256: b174039b4e1b48ffd6473b58f46dcef1e5b75c851298de4fff2c51c3fbdd478e
-SHA1: 5c5f9244ed75a37176926439b5402f7776069f0f
-MD5sum: 5d74b5789847a82495f4fd519c6a79b1
+Filename: pool/main/r/rivalcfg/python3-rivalcfg_4.8.0-1_all.deb
+Size: 37604
+SHA256: 03ca3cfc5c8b317945a1b42336c42db0700a5fad7bc3f19e0941136a56bb0720
+SHA1: 098209c437e20399c9ca11e3381158f2d338cfef
+MD5sum: 3db61f4b6535e2906245f1978e3e3b09
 Description: CLI tool and Python library to configure SteelSeries gaming mice
  Rivalcfg is a Python library and a CLI utility program that allows you to
  configure SteelSeries gaming mice on Linux and Windows (probably works on BSD
