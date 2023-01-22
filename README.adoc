@@ -95,10 +95,6 @@ https://kogiku.github.io/debian-repo/pool/main/libv/libvorbis-aotuv/libvorbisfil
 |https://kogiku.github.io/debian-repo/pool/main/s/sdlpal/sdlpal_2.0.2021.0214-1_amd64.deb[amd64]
 |from https://github.com/sdlpal/sdlpal
 
-|*spek-x*
-|https://kogiku.github.io/debian-repo/pool/main/s/spek-x/spek-x_0.9.0-1_amd64.deb[amd64]
-|from https://github.com/MikeWang000000/spek-X
-
 |*srmd-ncnn-vulkan*
 |https://kogiku.github.io/debian-repo/pool/main/s/srmd-ncnn-vulkan/srmd-ncnn-vulkan_20210210-2_amd64.deb[amd64]
 |from https://github.com/nihui/srmd-ncnn-vulkan
